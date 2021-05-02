@@ -20,7 +20,7 @@ doi: "10.1016/j.jms.2021.111468"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer (Special Issue)'
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
