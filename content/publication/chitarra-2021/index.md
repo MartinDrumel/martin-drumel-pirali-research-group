@@ -10,7 +10,7 @@ abstract: "Because of their high stability, the presence of diamond-type molecul
 the interstellar medium, a hypothesis supported by the extraction of diamond nanocrystal from some meteorites. 
 We report the rotational and vibrational investigation of two polar derivatives of adamantane (C$_{10}$H$_{16}$), 1-cyanoadamantane (C$_{10}$H$_{15}$-CN) and 1-isocyanoadamantane (C$_{10}$H$_{15}$-NC), using room temperature gas phase absorption spectroscopy. 
 Pure rotational spectra have been recorded at millimeter wavelengths (75--220 GHz) while vibrational spectra were obtained in the far- and mid-infrared domains (50--3500 cm$^{-1}$). 
-Quantum chemical calculations have been performed on these two $C_{3\mathrm{v}}$ rotors to support the spectral analysis enabling the assignment, for both species, of more than 7000 pure rotational transitions in the ground (A$_1$ symmetry) and first vibrationally excited (E symmetry) states, and of most of the infrared active bands.
+Quantum chemical calculations have been performed on these two $C_{3v}$ rotors to support the spectral analysis enabling the assignment, for both species, of more than 7000 pure rotational transitions in the ground (A$_1$ symmetry) and first vibrationally excited (E symmetry) states, and of most of the infrared active bands.
 The pure rotational lines were fit to their experimental accuracy using a symmetric-top Hamiltonian. 
 Our study provides all necessary information for an active search of these species in space."
 featured: false
