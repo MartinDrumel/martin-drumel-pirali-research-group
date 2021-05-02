@@ -2,7 +2,6 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "HEROES"
-subtitle:"HEterodyne Receivers OptimizEd for Synchrotron sources"
 summary: "HEterodyne Receivers OptimizEd for Synchrotron sources"
 authors: [Gaël Mouret, Olivier Pirali]
 tags: []
