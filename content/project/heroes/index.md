@@ -38,6 +38,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+publication: ""
 ---
 
 The goal of our project “HEROES” is to provide to the national and international scientific community two ultra-high resolution spectrometers in the THz (0.1 THz-1.1 THz) and far-IR (1 THz-6 THz) spectral regions using the heterodyne techniques. These instruments will be set-up on the AILES beamline of SOLEIL facility.
