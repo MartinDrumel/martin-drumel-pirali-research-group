@@ -1,8 +1,8 @@
 ---
-title: "SOLEIL and ALMA views on prototypical organic nitriles: C2H5CN"
+title: "SOLEIL and ALMA views on prototypical organic nitriles: C$_2$H$_5$CN"
 date: 2021-01-01
 publishDate: 2021-05-02T11:46:22.283109Z
-authors: ["Christian P. Endres", "Marie-Aline Martin-Drumel", "Oliver Zingsheim", "Luis Bonah", "Olivier Pirali", "Tianwei Zhang", "Álvaro Sanchez-Monge", "Thomas Möller", "Nadine Wehres", "Peter Schilke", "Michael C. McCarthy", "Stephan Schlemmer", "Paola Caselli", "Sven Thorwirth"]
+authors: ["Christian P. Endres", "Marie-Aline Martin-Drumel", "Oliver Zingsheim", "Luis Bonah", "Olivier Pirali", "Tianwei Zhang", "Álvaro S\'anchez-Monge", "Thomas Möller", "Nadine Wehres", "Peter Schilke", "Michael C. McCarthy", "Stephan Schlemmer", "Paola Caselli", "Sven Thorwirth"]
 publication_types: ["2"]
 abstract: ""
 featured: false
