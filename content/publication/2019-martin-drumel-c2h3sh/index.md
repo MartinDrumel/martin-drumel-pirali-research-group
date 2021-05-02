@@ -6,6 +6,6 @@ authors: ["Marie-Aline Martin-Drumel", "Kin Long Kelvin Lee", "Arnaud Belloche",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Astronomy \& Astrophysics*"
+publication: "*Astronomy & Astrophysics*"
 doi: "10.1051/0004-6361/201935032"
 ---
