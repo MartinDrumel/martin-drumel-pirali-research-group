@@ -1,5 +1,5 @@
 ---
-title: "A rotational and vibrational investigation of phenylpropiolonitrile (C6H5C3N)"
+title: "A rotational and vibrational investigation of phenylpropiolonitrile (C$_6$H$_5$C$_3$N)"
 date: 2021-01-01
 publishDate: 2021-05-02T11:46:22.284378Z
 authors: ["Zachary Buchanan", "Kin Long Kelvin Lee", "Olivia Chitarra", "Michael C. McCarthy", "Olivier Pirali", "Marie-Aline Martin-Drumel"]
