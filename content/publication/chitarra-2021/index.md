@@ -36,5 +36,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - internal-project
+- heroes
 ---
 
