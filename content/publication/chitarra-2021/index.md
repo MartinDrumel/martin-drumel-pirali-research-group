@@ -17,6 +17,9 @@ featured: false
 publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111468"
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
