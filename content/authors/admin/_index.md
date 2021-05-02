@@ -17,21 +17,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High resolution spectroscopy
+- Laboratory astrophysics
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Physics
+    institution: University of Paris-Sud
+    year: 2012
+  - course: MSc in Chemistry
+    institution: University of Paris-Sud
+    year: 2009
+  - course: BSc in Chemistry
+    institution: University of Paris-Sud
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
