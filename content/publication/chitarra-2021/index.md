@@ -14,6 +14,7 @@ Quantum chemical calculations have been performed on these two $C_{3v}$ rotors t
 The pure rotational lines were fit to their experimental accuracy using a symmetric-top Hamiltonian. 
 Our study provides all necessary information for an active search of these species in space."
 featured: false
+
 publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111468"
 
@@ -23,7 +24,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer (Special Issue)'
+  caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ) (Special Issue)'
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
