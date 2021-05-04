@@ -41,6 +41,6 @@ slides: ""
 
 publication: ""
 ---
+The identification of new species in the interstellar medium (ISM) is intrinsically linked to their prior study in the laboratory, especially at millimeter wavelengths where the recorded spectra act as identity cards of molecules. we are developing a new spectrometer using revolutionary instrumentation, based on the so-called chirped-pulse technique, allowing high-resolution broadband spectroscopy in the millimeter range. In this project, this technique will be coupled with a pulsed supersonic expansion at kHz, almost two orders of magnitude beyond conventional repetition rates, which will allow probing of new reactive species, created for example by electric discharge, in a manner ultra sensitive, in order to then look for them in the MIS.
 
-
-This project is funded by the LabEx PALM
+This project is funded by the *Investissements d’Avenir* LabEx PALM (ANR-10-LABX-0039-PALM).
