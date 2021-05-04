@@ -35,6 +35,8 @@ education:
 
 
 
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,10 +47,10 @@ social:
   link: 'mailto:marie-aline.martin@universite-paris-saclay.fr'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MA_MartinDrumel
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=a_eeQb0AAAAJ&hl=fr&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -70,4 +72,6 @@ user_groups:
 - Researchers
 ---
 
-Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* (ISMO) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
+Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* (ISMO) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. She was awarded the CNRS bronze medal in 2021.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/files/MartinDrumel_CV.pdf" "newtab" >}}resumé{{< /staticref >}} and complete list of {{< staticref "static/files/MartinDrumel_prodScientifique.pdf" "newtab" >}}publications{{< /staticref >}}.
