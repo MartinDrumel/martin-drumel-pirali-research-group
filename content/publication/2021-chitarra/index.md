@@ -19,7 +19,7 @@ publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111468"
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We report the rotational and vibrational investigation of two polar derivatives of adamantane (C<sub>10</sub>H<sub>16</sub>), 1-cyanoadamantane (C<sub>10</sub>H<sub>15</sub>--CN) and 1-isocyanoadamantane (C<sub>10</sub>H<sub>15</sub>--NC), providing all necessary information for an active search of these species in space.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
