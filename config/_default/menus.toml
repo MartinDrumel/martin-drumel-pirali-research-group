@@ -22,16 +22,22 @@
 #  name = "Events"
 #  url = "event"
 #  weight = 35
-
-[[main]]
-  name = "Instrumentation"
-  url = "setups"
-  weight = 40
   
 [[main]]
   name = "Projects"
   url = "project"
+  weight = 40
+  
+[[main]]
+  name = "Research"
+  url = "research"
+  weight = 45
+  
+[[main]]
+  name = "Instrumentation"
+  url = "setups"
   weight = 50
+
   
 [[main]]
   name = "Publications"
