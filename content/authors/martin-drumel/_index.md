@@ -14,7 +14,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
+#I received a PhD in Physics from the university of Paris-Sud (now Paris-Saclay) in 2012, under the supervision of Prof. Philippe Bréchignac and Dr. Olivier Pirali. I then completed my post-doctoral research in three different groups. From 2012 to 2013 I was appointed in the University of Littoral Côte d’Opale (France), University of Cologne (Germany), where I joined the Group of Prof. Stephan Schlemmer, and at the Harvard–Smithsonian Center for Astrophysics (USA) with Dr. Michael McCarthy. I was appointed in 2017 to a research position in France at the Centre National de la Recherche Scientifique (CNRS, France). 
 
 interests:
 - High resolution spectroscopy
@@ -32,6 +33,8 @@ education:
     institution: University of Paris-Sud
     year: 2007
 
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,14 +49,14 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/MartinDrumel_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,6 +70,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* (ISMO) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
