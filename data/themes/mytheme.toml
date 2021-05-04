@@ -10,7 +10,7 @@ primary = "rgb(148, 0, 0)"
 # Menu
 menu_primary = "rgb(148, 0, 0)"
 menu_text = "rgb(255, 255, 255)"
-menu_text_active = "rgb(255, 212, 0)"
+menu_text_active = "rgb(204, 204, 204)"
 menu_title = "rgb(255, 255, 255)"
 
 # Home sections
