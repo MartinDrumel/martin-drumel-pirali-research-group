@@ -20,6 +20,7 @@ bio: My research interests focus on molecular spectroscopy of stable molecules a
 interests:
 - High resolution spectroscopy
 - Laboratory astrophysics
+- test
 
 education:
   courses:
@@ -32,6 +33,7 @@ education:
   - course: BSc in Chemistry
     institution: University of Paris-Sud
     year: 2007
+
 
 
 
