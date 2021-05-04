@@ -8,10 +8,10 @@
 #  url = "/"
 #  weight = 10
 
-[[main]]
-  name = "News"
-  url = "post"
-  weight = 20
+#[[main]]
+#  name = "News"
+#  url = "post"
+#  weight = 20
 
 [[main]]
   name = "People"
@@ -23,28 +23,28 @@
 #  url = "event"
 #  weight = 35
   
-[[main]]
-  name = "Projects"
-  url = "project"
-  weight = 40
-  
+
 [[main]]
   name = "Research"
   url = "research"
-  weight = 45
+  weight = 40
   
 [[main]]
   name = "Instrumentation"
   url = "setups"
   weight = 50
 
+[[main]]
+  name = "Projects"
+  url = "project"
+  weight = 60
   
 [[main]]
   name = "Publications"
   url = "publication"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 70
+  weight = 80
