@@ -49,3 +49,5 @@ The aim of this project is first to better characterize the absorption continua 
 LIPHY Laboratoire Interdisciplinaire de Physique
 LMD Laboratoire de Météorologie Dynamique
 ISMO Institut des Sciences Moléculaires d'Orsay
+
+This project is funded by the *Agence Nationale de la Recherche* ([ANR-19-CE31-0010](https://anr.fr/Project-ANR-19-CE31-0010)).
