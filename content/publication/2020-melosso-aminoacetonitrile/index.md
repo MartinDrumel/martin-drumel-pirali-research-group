@@ -2,7 +2,7 @@
 title: "Far-infrared laboratory spectroscopy of aminoacetonitrile and first interstellar detection of its vibrationally excited transitions"
 date: 2020-01-01
 publishDate: 2021-05-02T14:24:07.308479Z
-authors: ["M. Melosso", "A. Belloche", "M. -A. Martin-Drumel", "O. Pirali", "F. Tamassia", "L. Bizzocchi", "R. T. Garrod", "H. S. P. Müller", "K. M. Menten", "L. Dore", "C. Puzzarini"]
+authors: ["Mattia Melosso", "Arnaud Belloche", "Marie-Aline Martin-Drumel", "Olivier Pirali", "Fillipo Tamassia", "L. Bizzocchi", "Robin T. Garrod", "Holger S. P. Müller", "Karl M. Menten", "Luca Dore", "Christina Puzzarini"]
 publication_types: ["2"]
 abstract: ""
 featured: false
