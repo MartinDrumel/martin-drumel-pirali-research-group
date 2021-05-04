@@ -20,7 +20,6 @@ bio: My research interests focus on molecular spectroscopy of stable molecules a
 interests:
 - High resolution spectroscopy
 - Laboratory astrophysics
-- test
 
 education:
   courses:
