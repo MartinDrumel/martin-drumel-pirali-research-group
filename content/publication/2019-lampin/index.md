@@ -12,7 +12,7 @@ publication: "*Optics Letters*"
 doi: "10.1364/OL.44.004985"
 
 # Summary. An optional shortened abstract.
-summary: We report the development of a new heterodyne spectrometer exploiting broadband synchrotron radiation and a QCL-based molecular THz laser allowing both high resolution and broadband coverage in the THz domain.
+summary: We report the development of a new heterodyne spectrometer allowing both high resolution and broadband coverage in the THz domain by exploiting broadband synchrotron radiation and a QCL-based molecular THz laser.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
