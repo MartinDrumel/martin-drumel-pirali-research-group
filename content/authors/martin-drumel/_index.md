@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
-#I received a PhD in Physics from the university of Paris-Sud (now Paris-Saclay) in 2012, under the supervision of Prof. Philippe Bréchignac and Dr. Olivier Pirali. I then completed my post-doctoral research in three different groups. From 2012 to 2013 I was appointed in the University of Littoral Côte d’Opale (France), University of Cologne (Germany), where I joined the Group of Prof. Stephan Schlemmer, and at the Harvard–Smithsonian Center for Astrophysics (USA) with Dr. Michael McCarthy. I was appointed in 2017 to a research position in France at the Centre National de la Recherche Scientifique (CNRS, France). 
+
 
 interests:
 - High resolution spectroscopy
@@ -54,9 +54,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/MartinDrumel_CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/MartinDrumel_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
