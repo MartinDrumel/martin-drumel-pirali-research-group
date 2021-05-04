@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SPECiES"
-summary: "*SPEctroscopie Chirped-pulse en Expansion Supersonique pulsée au kHz*"
+summary: "Chirped-pulse spectroscopy in a kHz-rate pulsed supersonic expansion*"
 authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
 tags: []
 categories: []
