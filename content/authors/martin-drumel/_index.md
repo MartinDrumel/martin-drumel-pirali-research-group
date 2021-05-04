@@ -33,6 +33,8 @@ education:
     institution: University of Paris-Sud
     year: 2007
 
+awards:
+- test
 
 
 # Social/Academic Networking
