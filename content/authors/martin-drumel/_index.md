@@ -33,8 +33,7 @@ education:
     institution: University of Paris-Sud
     year: 2007
 
-awards:
-- test
+
 
 
 # Social/Academic Networking
@@ -72,6 +71,6 @@ user_groups:
 - Researchers
 ---
 
-Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* (ISMO) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
+Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* (ISMO) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. She was awarded the CNRS bronze medal in 2021.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/files/MartinDrumel_CV.pdf" "newtab" >}}resumé{{< /staticref >}} and complete list of {{< staticref "static/files/MartinDrumel_prodScientifique.pdf" "newtab" >}}publications{{< /staticref >}}.
