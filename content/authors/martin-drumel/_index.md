@@ -71,3 +71,5 @@ user_groups:
 ---
 
 Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* (ISMO) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/files/MartinDrumel_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
