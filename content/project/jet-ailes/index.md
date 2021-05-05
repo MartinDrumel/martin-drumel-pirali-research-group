@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Jet-AILES"
-summary: "Laboratory Investigation of reactive species by Spectral Taxonomy"
+summary: "Continuous jet experiment on the AILES beamline at SOLEIL synchrotron"
 authors: [Robert Georges, Manuel Goubet, Pascale Soulard, Pierre Asselin, Olivier Pirali, Marie-Aline Martin-Drumel]
 tags: []
 categories: []
