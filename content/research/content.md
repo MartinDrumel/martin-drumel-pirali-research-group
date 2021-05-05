@@ -1,14 +1,24 @@
 ---
-title: Research interests
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+headless: true
+weight: 20
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
+title: Latest News
+subtitle:
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+content:
+  count: 5
+  filters:
+    author: ""
+    category: ""
+    exclude_featured: false
+    publication_type: ""
+    tag: ""
+  offset: 0
+  order: desc
+  page_type: post
+design:
+  view: 3
+  columns: "1"
 ---
