@@ -10,7 +10,7 @@ publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111469"
 
 # Summary. An optional shortened abstract.
-summary: We report the rotational and vibrational investigation of two polar derivatives of adamantane (C<sub>10</sub>H<sub>16</sub>), 1-cyanoadamantane (C<sub>10</sub>H<sub>15</sub>--CN) and 1-isocyanoadamantane (C<sub>10</sub>H<sub>15</sub>--NC), providing all necessary information for an active search of these species in space.
+summary: The high resolution vibrational spectrum of vinyl acetylene (C<sub>2</sub>H<sub>3</sub>CCH) has been investigated in the far infrared region allowing the two energetically lowest vibrational fundamentals ν<sub>13</sub> and ν<sub>18</sub>, and their respective hot bands, to be assigned.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
