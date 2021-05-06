@@ -13,5 +13,24 @@ of C<sub>2</sub>H<sub>5</sub>CN can be very intense, of order several tens of Ke
 featured: false
 publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2020.111392"
+
+# Summary. An optional shortened abstract.
+summary: The high resolution vibrational spectrum of ethyl cyanide (C<sub>2</sub>H<sub>5</sub>CN) has been investigated  in the far-IR using synchrotron-based Fourier transform spectroscopy enabling the spectral assignment of the four lowest fundamental vibrations.
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ) (Special Issue)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+  
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+#- 
 ---
 
