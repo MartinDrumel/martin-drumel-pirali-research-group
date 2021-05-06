@@ -12,5 +12,27 @@ Interstellar searches for this highly polar species can now be undertaken with c
 featured: false
 publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111425"
+
+# Summary. An optional shortened abstract.
+summary: We report the rotational and vibrational investigation of phenylpropiolonitrile (3-phenyl-2-propynenitrile, C<sub>6</sub>H<sub>5</sub>C<sub>3</sub>N), a ring-chain derivatives of interstellar benzonitrile (C<sub>6</sub>H<sub>5</sub>CN).
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+  
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- listed
 ---
 
+
+This article is part of the special issue [Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ).
