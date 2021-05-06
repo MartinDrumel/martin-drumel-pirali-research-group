@@ -1,47 +1,19 @@
 
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+title: Research interests
 
-title: "Research interests"
-summary: ""
-authors: []
-tags: []
-categories: []
-date: 2021-05-02T15:52:25+02:00
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+# Optional header image (relative to `static/media/` folder).
+header:
   caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-publication: ""
+  image: ""
 ---
+
 
 We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
 
