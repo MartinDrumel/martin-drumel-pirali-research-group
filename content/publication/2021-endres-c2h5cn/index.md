@@ -33,3 +33,4 @@ image:
 #- 
 ---
 
+This article is part of the special issue on [Astronomical Spectroscopy](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/10V9XVHVRBN).
