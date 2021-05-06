@@ -43,6 +43,7 @@ slides: ""
 publication: ""
 ---
 
+We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
 
 - HR spectroscopy mm to FIR
 - exp devlpment
