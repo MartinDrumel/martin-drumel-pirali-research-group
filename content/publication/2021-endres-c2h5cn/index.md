@@ -20,8 +20,7 @@ summary: The high resolution vibrational spectrum of ethyl cyanide (C<sub>2</sub
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ) (Special Issue)'
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: '[Special issue on Astronomical Spectroscopy](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/10V9XVHVRBN)'
   focal_point: ""
   preview_only: false
   
