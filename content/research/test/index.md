@@ -1,5 +1,6 @@
 ---
 title: test page
+summary: useful commands in markdown
 
 # View.
 #   1 = List
@@ -13,20 +14,21 @@ header:
   image: ""
 ---
 
-We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
-
-[Scroll down to a page section with heading another](#exp)
+Here are some useful commands
 
 {{< toc >}}
 
+[Scroll down to a page section with heading "citations"](#citation)
 
 ## HR spectroscopy mm to FIR
 
-## Exp devlpment
+## Highlighted text
 
 > This is a blockquote.
 
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
+
+## Lists 
 
 1. First item
    1. A sub-item
@@ -41,36 +43,40 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 - [ ] Do something else
 
 
-{{< gallery album="gallery" >}}
-gallery_item:
-- album: gallery
-  image: IMG_20210505_101014.jpg
-  caption: test
   
   
-## Whatever
+## Article citations
 
 To cite a page or publication, you can use the cite shortcode, referencing a folder and page name that you created:
 
+Style 1 Stream
 {{< cite page="/publication/2021-chitarra" view="1" >}}
 
+Style 2 Compact
 {{< cite page="/publication/2021-chitarra" view="2" >}}
 
+Style 3 Card
 {{< cite page="/publication/2021-chitarra" view="3" >}}
 
+Style 4 Traditional academic citation, configured by the citation_style setting in params.yaml
 {{< cite page="/publication/2021-chitarra" view="4" >}}
 
 where view corresponds to one of the available listing views used throughout Wowchemy:
 
-1 Stream
-2 Compact
-3 Card
-4 Traditional academic citation, configured by the citation_style setting in params.yaml
-
 If you don’t specify a view, it will default to the compact view.
 
 
-To cross-reference a figure, provide it with an ID, for example: {{< figure src="IMG_20210505_101014.jpg" id="wowchemy" >}}.
+## Figures
+
+{{< gallery album="gallery" >}}
+
+
+gallery_item:
+- album: gallery
+  image: gallery/IMG_20210505_101014.jpg
+  caption: caption of the figure
+  
+To cross-reference a figure, provide it with an ID, for example: {{< figure src="gallery/IMG_20210505_101014.jpg" id="wowchemy" >}}.
 Assets images library {{< figure src="icon.png" id="wowchemy" >}}
 
 The figure can now be cross-referenced with a link in the form [my Figure](#figure-wowchemy).
