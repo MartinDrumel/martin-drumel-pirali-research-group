@@ -42,11 +42,6 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
   - [x] Write diagram example
 - [ ] Do something else
 
-{{< gallery album="<gallery" >}}
-gallery_item:
-- album: <gallery>
-  image: <IIMG_20210505_101014>.jpg
-  caption: test
 
 ## Heading 2
 Whatever

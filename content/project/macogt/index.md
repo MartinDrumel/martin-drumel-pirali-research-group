@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MACO-GT"
-summary: "Open-Shell and complex astrophysical molecules"
+summary: "Open-shell and complex astrophysical molecules"
 authors: [Laurent Coudert (ISMO), Marie-Aline Martin-Drumel, Olivier Pirali]
 tags: []
 categories: []

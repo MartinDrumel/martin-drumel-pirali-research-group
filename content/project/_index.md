@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-to be completed
+You can learn more about several of our research projects below.

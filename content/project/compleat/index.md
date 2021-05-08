@@ -3,7 +3,7 @@
 
 title: "COMPLEAT"
 summary: "Infrared absorption continua: Laboratory studies, calculations and applications to the modeling of the atmospheres of telluric planets"
-authors: [Didier Mondelain, Olivier Pirali]
+authors: [Didier Mondelain (LIPHY), Olivier Pirali]
 tags: []
 categories: []
 date: 2021-05-02T15:52:25+02:00
