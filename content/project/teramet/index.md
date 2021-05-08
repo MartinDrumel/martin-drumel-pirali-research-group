@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SPECiES"
-summary: "Chirped-pulse spectroscopy in a kHz-rate pulsed supersonic expansion"
-authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
+title: "TERAMET"
+summary: "Hz-level frequency generation in the TeraHertz range. Generation, characterization, and applications "
+authors: [Olivier Pirali, Marie-Aline Martin-Drumel, S. Kassi (LiPhy)]
 tags: []
 categories: []
 date: 2021-05-02T15:52:25+02:00
@@ -41,7 +41,7 @@ slides: ""
 
 publication: ""
 ---
-The identification of new species in the interstellar medium (ISM) is intrinsically linked to their prior study in the laboratory, especially at millimeter wavelengths where the recorded spectra act as identity cards of molecules. 
-In the SPECiES (*SPEctroscopie Chirped-pulse en Expansion Supersonique pulsée au kHz*) project, we are developing a new spectrometer using revolutionary instrumentation, based on the so-called chirped-pulse technique, allowing high-resolution broadband spectroscopy in the millimeter range. In this project, this technique will be coupled with a pulsed supersonic expansion at kHz, almost two orders of magnitude beyond conventional repetition rates, which will allow probing of new reactive species, created for example by electric discharge, in a manner ultra sensitive, in order to then look for them in the ISM.
+Despite considerable efforts from many laboratories, the generation of an agile and high spectral purity radiation in the terahertz (THz) region, arbitrarily defined as 0.3-10 THz (roughly 10-333 cm-1), remains not available. We propose to exploit recent progresses in the frequency stabilization (down to the Hz level) of DFB lasers at 1500 nm, patented by our collaborator (Samir Kassi, LiPHY, Grenoble), together with the commercially available rapid low-temperature grown InGaAs photomixers to generate a radiation in the 300-3000 GHz using the photomixing technique. Our new spectrometer will benefit from mature technology in the telecom range to provide an extremely high agility and spectral purity in the THz domain, opening new possibilities for ultra-high precision THz molecular spectroscopy.
 
 This project is supported by a public grant from the *Laboratoire d'Excellence Physics Atoms Light Mater* ([LabEx PALM](https://www.labex-palm.fr/)) overseen by the French National Research Agency (ANR) as part of the *Investissements d'Avenir* program (ANR-10-LABX-0039-PALM).
+

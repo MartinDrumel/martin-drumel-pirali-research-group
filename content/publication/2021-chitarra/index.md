@@ -36,6 +36,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - listed
+- pcmi
 ---
 
 

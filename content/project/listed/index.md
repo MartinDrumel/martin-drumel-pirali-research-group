@@ -46,5 +46,4 @@ Studying star- and planet-forming regions in our galaxy provides important clues
 
 This project aims at extending the spectral taxonomy to the millimeter-wave domain, a spectral region with a renewed interest due to the advent of powerful radiointerfereometers, both extremely sensitive and resolutive, such as NOEMA and ALMA. The obtained molecular fingerprints will enable astronomers to look for new reactive species in the interstellar medium using these instruments and thus to understand better the chemical and physical processes in space.
 
-This project is funded by the *Agence Nationale de la Recherche* ([ANR-19-CE30-0017](https://anr.fr/Project-ANR-19-CE30-0017)), the *Région
-Ile-de-France*, through DIM-ACAV$^+$, and the CNRS.
+This project is funded by the *Agence Nationale de la Recherche* ([ANR-19-CE30-0017](https://anr.fr/Project-ANR-19-CE30-0017)), the *Région Ile-de-France*, through DIM-ACAV$^+$, and the CNRS.
