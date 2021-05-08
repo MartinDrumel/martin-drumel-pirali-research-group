@@ -2,9 +2,16 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: false
 
-content:
+# Order that this section appears on the page.
+weight: 2
+
+# ... Put Your Section Options Here (title etc.) ...
+title: test
+
+content:  
   # Page type to display. E.g. project.
   page_type: project
 
@@ -19,10 +26,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: tag1
+    - name: Laboratory astrophysics
+      tag: labastro
+    - name: Experimental development
+      tag: exp
+    - name: Synchrotron radiation
+      tag: soleil
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -37,5 +46,3 @@ design:
   flip_alt_rows: false
 ---
 
-
-test portfolio
