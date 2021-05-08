@@ -3,6 +3,7 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+title: portfolio design 3
 
 content:
   # Page type to display. E.g. project.
@@ -37,5 +38,3 @@ design:
   flip_alt_rows: false
 ---
 
-
-test portfolio

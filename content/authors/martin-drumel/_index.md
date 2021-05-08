@@ -14,12 +14,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on molecular spectroscopy of stable molecules and transient species, and its applications for astrophysics and physical-chemistry. 
+bio: My research interests focus on molecular spectroscopy of stable molecules and reactive species, and its applications for astrophysics and physical-chemistry. 
 
 
 interests:
 - High resolution spectroscopy
 - Laboratory astrophysics
+
+labos:
+- labo 1
+- course: test
 
 education:
   courses:
