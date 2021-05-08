@@ -3,7 +3,7 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: portfolio design1 1 column
+title: portfolio design1 2 column
 content:
   # Page type to display. E.g. project.
   page_type: project
