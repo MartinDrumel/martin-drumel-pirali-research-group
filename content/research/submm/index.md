@@ -1,5 +1,5 @@
 ---
-title: Research interests
+title: (sub)millimeter-wave spectroscopy 
 
 # View.
 #   1 = List
@@ -43,6 +43,13 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 - [ ] Do something else
 
 
+{{< gallery album="gallery" >}}
+gallery_item:
+- album: gallery
+  image: IMG_20210505_101014.jpg
+  caption: test
+  
+  
 ## Heading 2
 Whatever
 
@@ -66,7 +73,7 @@ where view corresponds to one of the available listing views used throughout Wow
 If you don’t specify a view, it will default to the compact view.
 
 
-To cross-reference a figure, provide it with an ID, for example: {{< figure src="image.jpg" id="wowchemy" >}}.
+To cross-reference a figure, provide it with an ID, for example: {{< figure src="IMG_20210505_101014.jpg" id="wowchemy" >}}.
 Assets images library {{< figure src="icon.png" id="wowchemy" >}}
 
 The figure can now be cross-referenced with a link in the form [A Figure](#figure-wowchemy).
