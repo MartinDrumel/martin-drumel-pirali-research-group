@@ -10,7 +10,7 @@ headless: false
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Research Projects
-subtitle:''
+#subtitle:
 
 content:  
   # Page type to display. E.g. project.
