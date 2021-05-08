@@ -10,10 +10,10 @@ headless: true
 weight: 1
 
 # Section title
-title: Hello
+title: Research projects
 
 # Section subtitle
-subtitle:
+subtitle: test subtitle
 
 # Section design
 design:
