@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 1
@@ -13,7 +13,7 @@ weight: 1
 title: Research projects
 
 # Section subtitle
-subtitle: test subtitle
+#subtitle: test subtitle
 
 # Section design
 design:
@@ -25,4 +25,4 @@ design:
 #    text_color_light: true
 ---
 
-Learn more about our research projects below.
+Learn more about our research projects.

@@ -9,8 +9,6 @@ headless: false
 weight: 2
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Research Projects
-
 content:  
   # Page type to display. E.g. project.
   page_type: project
