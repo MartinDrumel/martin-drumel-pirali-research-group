@@ -21,10 +21,6 @@ interests:
 - High resolution spectroscopy
 - Laboratory astrophysics
 
-labos:
-- labo 1
-- course: test
-
 education:
   courses:
   - course: PhD in Physics
@@ -36,9 +32,6 @@ education:
   - course: BSc in Chemistry
     institution: University of Paris-Sud
     year: 2007
-
-
-
 
 
 # Social/Academic Networking
