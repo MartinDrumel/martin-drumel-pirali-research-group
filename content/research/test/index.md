@@ -1,6 +1,7 @@
 ---
 title: test page
 summary: useful commands in markdown
+author:
 
 # View.
 #   1 = List
@@ -18,9 +19,10 @@ Here are some useful commands
 
 {{< toc >}}
 
-[Scroll down to a page section with heading "citations"](#citation)
+[Scroll down to a page section with heading "citations"](#Article citations)
 
-## HR spectroscopy mm to FIR
+## Headers
+### and subheaders
 
 ## Highlighted text
 
@@ -68,15 +70,15 @@ If you don’t specify a view, it will default to the compact view.
 
 ## Figures
 
+gallery:
 {{< gallery album="gallery" >}}
 
 
 gallery_item:
 - album: gallery
-  image: gallery/IMG_20210505_101014.jpg
+  image: IMG_20210505_101014.jpg
   caption: caption of the figure
   
 To cross-reference a figure, provide it with an ID, for example: {{< figure src="gallery/IMG_20210505_101014.jpg" id="wowchemy" >}}.
-Assets images library {{< figure src="icon.png" id="wowchemy" >}}
 
 The figure can now be cross-referenced with a link in the form [my Figure](#figure-wowchemy).
