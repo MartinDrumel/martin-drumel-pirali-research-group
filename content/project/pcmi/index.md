@@ -1,10 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Laboratory astrophysics"
+title: "Physics and Chemistry of the interstellar medium"
 summary: "Spectroscopic investigation of astrophysically-relevant species from the millimeter-wave to the far-infrared domain"
 authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
-tags: []
+
+tags: [exp, labastro, soleil]
+
 categories: []
 date: 2021-05-02T15:52:25+02:00
 

@@ -4,7 +4,9 @@
 title: "HEROES"
 summary: "HEterodyne Receivers OptimizEd for Synchrotron sources"
 authors: [Gaël Mouret, Olivier Pirali]
-tags: []
+
+tags: [exp, soleil]
+
 categories: []
 date: 2021-05-02T15:52:25+02:00
 

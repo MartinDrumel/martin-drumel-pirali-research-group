@@ -4,7 +4,9 @@
 title: "Jet-AILES"
 summary: "Continuous supersonic jet experiment on the AILES beamline at SOLEIL synchrotron"
 authors: [Robert Georges (IPR), Manuel Goubet (PhLAM), Pascale Soulard (MONARIS), Pierre Asselin (MONARIS), Olivier Pirali]
-tags: []
+
+tags: [soleil]
+
 categories: []
 date: 2021-05-02T15:52:25+02:00
 

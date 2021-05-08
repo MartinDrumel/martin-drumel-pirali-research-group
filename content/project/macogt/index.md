@@ -4,7 +4,9 @@
 title: "MACO-GT"
 summary: "Open-shell and complex astrophysical molecules"
 authors: [Laurent Coudert (ISMO), Marie-Aline Martin-Drumel, Olivier Pirali]
-tags: []
+
+tags: [exp, labastro]
+
 categories: []
 date: 2021-05-02T15:52:25+02:00
 
