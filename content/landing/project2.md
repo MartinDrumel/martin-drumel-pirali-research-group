@@ -30,6 +30,8 @@ content:
       tag: labastro
     - name: Experimental development
       tag: exp
+    - name: Synchrotron radiation
+      tag: soleil
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -44,5 +46,3 @@ design:
   flip_alt_rows: false
 ---
 
-
-test portfolio
