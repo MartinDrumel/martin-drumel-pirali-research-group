@@ -27,11 +27,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Laboratory astrophysics
+    - name: Lab. astro.
       tag: labastro
-    - name: Experimental development
+    - name: Exp. development
       tag: exp
-    - name: Synchrotron radiation
+    - name: Synchrotron
       tag: soleil
       
 design:
