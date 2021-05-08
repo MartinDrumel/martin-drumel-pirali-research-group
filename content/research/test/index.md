@@ -1,5 +1,5 @@
 ---
-title: (sub)millimeter-wave spectroscopy 
+title: test page
 
 # View.
 #   1 = List
@@ -20,11 +20,9 @@ We are interested in rotationally-resolved spectroscopy mainly, but only, in the
 {{< toc >}}
 
 
-## Heading 2
-HR spectroscopy mm to FIR
+## HR spectroscopy mm to FIR
 
-## Heading 2
-Exp devlpment
+## Exp devlpment
 
 > This is a blockquote.
 
@@ -50,8 +48,7 @@ gallery_item:
   caption: test
   
   
-## Heading 2
-Whatever
+## Whatever
 
 To cite a page or publication, you can use the cite shortcode, referencing a folder and page name that you created:
 
@@ -76,4 +73,4 @@ If you don’t specify a view, it will default to the compact view.
 To cross-reference a figure, provide it with an ID, for example: {{< figure src="IMG_20210505_101014.jpg" id="wowchemy" >}}.
 Assets images library {{< figure src="icon.png" id="wowchemy" >}}
 
-The figure can now be cross-referenced with a link in the form [A Figure](#figure-wowchemy).
+The figure can now be cross-referenced with a link in the form [my Figure](#figure-wowchemy).
