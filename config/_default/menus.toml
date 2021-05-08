@@ -30,11 +30,6 @@
   weight = 40
   
 [[main]]
-  name = "Instrumentation"
-  url = "setups"
-  weight = 50
-
-[[main]]
   name = "Projects"
   url = "project"
   weight = 60
