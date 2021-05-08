@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Physics and Chemistry of the interstellar medium"
+title: "Physics and chemistry of the interstellar medium"
 summary: "Spectroscopic investigation of astrophysically-relevant species from the millimeter-wave to the far-infrared domain"
 authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
 
