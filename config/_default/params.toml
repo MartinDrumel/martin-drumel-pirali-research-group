@@ -87,6 +87,9 @@ show_related = {post = true, project = true, publication = true, talk = true}
 email = ""
 phone = ""
 
+# Directions for visitors to locate you.
+directions = "Institut des Sciences Moléculaires d'Orsay"
+
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "Institut des Sciences Moléculaires d'Orsay, Bat. 520 rue André Rivière", city = "Orsay", region = "", postcode = "91405", country = "France", country_code = "FR"}
