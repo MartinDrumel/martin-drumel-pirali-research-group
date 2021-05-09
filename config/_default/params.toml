@@ -87,8 +87,6 @@ show_related = {post = true, project = true, publication = true, talk = true}
 email = ""
 phone = ""
 
-# Directions for visitors to locate you.
-directions = "Institut des Sciences Moléculaires d'Orsay"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -98,8 +96,8 @@ address = {street = "Institut des Sciences Moléculaires d'Orsay, Bat. 520 rue A
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "48.70689", longitude = "2.17794"}
 
-## Directions for visitors to locate you.
-#directions = "Institut des Sciences Moléculaires d'Orsay"
+# Directions for visitors to locate you.
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
