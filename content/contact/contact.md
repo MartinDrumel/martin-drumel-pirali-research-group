@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-For any inquiry, please contact Marie-Aline Martin or Olivier Pirali.
+For any inquiry, please contact {{% mention "martin-drumel" %}} Marie-Aline Martin or {{% mention "pirali" %}}.
