@@ -89,14 +89,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bat. 520 rue Andre Riviere", city = "Orsay", region = "", postcode = "91405", country = "France", country_code = "FR"}
+address = {street = "Institut des Sciences Moléculaires d'Orsay, Bat. 520 rue André Rivière", city = "Orsay", region = "", postcode = "91405", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "48.70689", longitude = "2.17794"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Institut des Sciences Moléculaires d'Orsay"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
