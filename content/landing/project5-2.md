@@ -1,18 +1,11 @@
 ---
 widget: portfolio
-#headless: true  # This file represents a page section.
-
-# This file represents a page section.
-headless: false
-
-# Order that this section appears on the page.
-#weight: 1
+headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Research Projects
-#subtitle:
+title: portfolio design 5 2 columns
 
-content:  
+content:
   # Page type to display. E.g. project.
   page_type: project
 
@@ -27,16 +20,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Lab. astro.
-      tag: labastro
-    - name: Exp. development
-      tag: exp
-    - name: Synchrotron
-      tag: soleil
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: tag1
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
+  
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
@@ -46,4 +38,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
 
