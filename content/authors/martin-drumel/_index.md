@@ -34,7 +34,7 @@ education:
 #    [Center for Astrophysics](https://www.cfa.harvard.edu/), Cambridge MA, USA
 #    year: 2014-2017
   - position: Postdoc 
-    institution: [GroupofStephanSchlemmer](https://astro.uni-koeln.de/schlemmer), [I.Phys.Institut](https://astro.uni-koeln.de/), University of Cologne, Germany
+    institution: Group of[StephanSchlemmer](https://astro.uni-koeln.de/schlemmer) #, [I.Phys.Institut](https://astro.uni-koeln.de/), University of Cologne, Germany
     year: 2013-2014
   - position: Postdoc 
     institution: Group of Gaël Mouret, [LPCA](https://lpca.univ-littoral.fr/),  Dunkirk, France
