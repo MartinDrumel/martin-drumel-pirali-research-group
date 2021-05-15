@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - position: Researcher
-    institution: CNRS
+    institution: CNRS, ISMO
     year: since 2017
   - position: Postdoc, group of Dr. Mike McCarthy
     institution: Center for Astrophysics 
@@ -40,7 +40,7 @@ education:
     institution: LPCA Dunkirk, France
     year: 2012-2013
   - course: PhD in Physics
-    institution: University of Paris-Sud
+    institution: University of Paris-Sud, [ISMO](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
     year: 2012
 
 
