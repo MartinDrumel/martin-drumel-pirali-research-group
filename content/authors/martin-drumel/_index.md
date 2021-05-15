@@ -23,9 +23,18 @@ interests:
 
 education:
   courses:
-#  - fa-university: Postdoc
-#    institution: Harvard
-#    year: 2014-2017
+  - position: researcher
+    institution: CNRS
+    year: since 2017
+  - position: postdoc group of Dr. Mike McCarthy
+    institution: Center for Astrophysics | Harvard & Smithsonian, USA
+    year: 2014-2017
+  - position: postdoc group of Prof.Dr. Stephan Schlemmer
+    institution: I. Phys. Institut Cologne, Germany
+    year: 2013-2014
+  - position: postdoc group of Prof. Gaël Mouret
+    institution: LPCA Dunkirk, France
+    year: 2012-2013
   - course: PhD in Physics
     institution: University of Paris-Sud
     year: 2012
@@ -53,9 +62,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: "files/MartinDrumel_CV.pdf"
+#- icon: cv
+#  icon_pack: ai
+#  link: "files/MartinDrumel_CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
