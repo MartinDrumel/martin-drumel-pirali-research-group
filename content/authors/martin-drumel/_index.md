@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - fa-university: Postdoc
-    institution: Harvard
-    year: 2014-2017
+#  - fa-university: Postdoc
+#    institution: Harvard
+#    year: 2014-2017
   - course: PhD in Physics
     institution: University of Paris-Sud
     year: 2012
