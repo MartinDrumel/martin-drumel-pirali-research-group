@@ -114,13 +114,14 @@
             <i class="fa-li fas fa-university"></i>
             <div class="description">
               <p class="course">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">
+              <p class="institution">{{ .institution | markdownify }}</p>
+              <!--<p class="institution">
                 {{ if .url_institution }}
                   <a href="{{ .url_institution }}"> {{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
-              </p>
+              </p>-->
             </div>
             {{ end }}
           </li>

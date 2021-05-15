@@ -30,8 +30,7 @@ education:
     institution: CNRS, ISMO
     year: since 2017
   - position: Postdoc, group of Dr. Mike McCarthy
-    institution: Center for Astrophysics 
-    url_institution: https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html
+    institution: [Center for Astrophysics](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
     year: 2014-2017
   - position: Postdoc, group of Prof.Dr. Stephan Schlemmer
     institution: I. Phys. Institut Cologne, Germany
@@ -40,7 +39,7 @@ education:
     institution: LPCA Dunkirk, France
     year: 2012-2013
   - course: PhD in Physics
-    institution: University of Paris-Sud, [ISMO](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
+    institution: University of Paris-Sud (Paris-Saclay)
     year: 2012
 
 
