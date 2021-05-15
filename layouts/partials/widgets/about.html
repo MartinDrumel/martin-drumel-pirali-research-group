@@ -77,16 +77,6 @@
     </div>
 
     <div class="row">
-      {{ with $person.awards }}
-      <div class="col-md-12">
-        <div class="section-subheading">{{ i18n "awards" | markdownify }}</div>
-        <ul class="ul-interests mb-0">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
       
       {{ with $person.interests }}
       <div class="col-md-5">
@@ -123,14 +113,26 @@
             <i class="fa-li fas fa-certificate"></i>
             <div class="description">
               <p class="course">{{ .certificate }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              </p>
             </div>
             {{ end }}
             {{ if .position }}
             <i class="fa-li fas fa-university"></i>
             <div class="description">
               <p class="course">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              </p>
             </div>
             {{ end }}
           </li>
