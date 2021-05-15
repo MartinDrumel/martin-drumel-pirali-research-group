@@ -16,6 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on molecular spectroscopy of stable molecules and reactive species, and its applications for astrophysics and physical-chemistry. 
 
+awards:
+- tests
+- another test
 
 interests:
 - High resolution spectroscopy
@@ -23,16 +26,16 @@ interests:
 
 education:
   courses:
-  - position: researcher
+  - position: Researcher
     institution: CNRS
     year: since 2017
-  - position: postdoc group of Dr. Mike McCarthy
+  - position: Postdoc, group of Dr. Mike McCarthy
     institution: Center for Astrophysics | Harvard & Smithsonian, USA
     year: 2014-2017
-  - position: postdoc group of Prof.Dr. Stephan Schlemmer
+  - position: Postdoc, group of Prof.Dr. Stephan Schlemmer
     institution: I. Phys. Institut Cologne, Germany
     year: 2013-2014
-  - position: postdoc group of Prof. Gaël Mouret
+  - position: Postdoc group of Prof. Gaël Mouret
     institution: LPCA Dunkirk, France
     year: 2012-2013
   - course: PhD in Physics
