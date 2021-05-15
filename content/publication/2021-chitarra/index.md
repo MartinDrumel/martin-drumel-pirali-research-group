@@ -5,6 +5,11 @@ publishDate: 2021-05-02T11:46:22.286087Z
 authors: ["Olivia Chitarra", "Marie-Aline Martin-Drumel", "Zachary Buchanan", "Olivier Pirali"]
 publication_types: ["2"]
 
+publication: "*The Journal of Molecular Spectroscopy*"
+doi: "10.1016/j.jms.2021.111468"
+
+url_code = "2021-chitarra_ESI.zip"
+
 # Abstract
 abstract: "Because of their high stability, the presence of diamond-type molecules has long been suspected in 
 the interstellar medium, a hypothesis supported by the extraction of diamond nanocrystal from some meteorites. 
@@ -15,8 +20,6 @@ The pure rotational lines were fit to their experimental accuracy using a symmet
 Our study provides all necessary information for an active search of these species in space."
 featured: false
 
-publication: "*The Journal of Molecular Spectroscopy*"
-doi: "10.1016/j.jms.2021.111468"
 
 # Summary. An optional shortened abstract.
 summary: We report the rotational and vibrational investigation of two polar derivatives of adamantane (C<sub>10</sub>H<sub>16</sub>), 1-cyanoadamantane (C<sub>10</sub>H<sub>15</sub>--CN) and 1-isocyanoadamantane (C<sub>10</sub>H<sub>15</sub>--NC), providing all necessary information for an active search of these species in space.
