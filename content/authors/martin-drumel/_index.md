@@ -29,18 +29,21 @@ education:
   - position: Researcher
     institution: CNRS, ISMO
     year: since 2017
-#  - position: Postdoc 
-#    institution: [Group of Mike McCarthy](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html),
-#    [Center for Astrophysics](https://www.cfa.harvard.edu/), Cambridge MA, USA
-#    year: 2014-2017
   - position: Postdoc 
-    institution: Group of[StephanSchlemmer](https://astro.uni-koeln.de/schlemmer) #, [I.Phys.Institut](https://astro.uni-koeln.de/), University of Cologne, Germany
+    institution: Group of Mike McCarthy, Center for Astrophysics | Harvard & Smithsonian
+    url_institution: https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html
+    year: 2014-2017
+  - position: Postdoc 
+    institution: Group of Stephan Schlemmer, I. Phys. Institut, University of Cologne, Germany
+    url_institution: https://astro.uni-koeln.de/schlemmer/
     year: 2013-2014
   - position: Postdoc 
-    institution: Group of Gaël Mouret, [LPCA](https://lpca.univ-littoral.fr/),  Dunkirk, France
+    institution: Group of Gaël Mouret, LPCA, Dunkirk, France
+    url_institution: https://lpca.univ-littoral.fr/
     year: 2012-2013
   - course: PhD in Physics
-    institution: University of [Paris-Sud](https://www.universite-paris-saclay.fr/) (Paris-Saclay) 
+    institution: University of Paris-Sud (Paris-Saclay), Orsay, France
+    url_institution: https://www.universite-paris-saclay.fr/
     year: 2012
 
 

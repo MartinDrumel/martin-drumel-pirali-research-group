@@ -100,28 +100,40 @@
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <!--<p class="institution">{{ .institution }}</p>-->
-              <p class="institution">{{ .institution | markdownify }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              </p>
             </div>
             {{ end }}
             {{ if .certificate }}
             <i class="fa-li fas fa-certificate"></i>
             <div class="description">
               <p class="course">{{ .certificate }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution | markdownify }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              </p>
             </div>
             {{ end }}
             {{ if .position }}
             <i class="fa-li fas fa-university"></i>
             <div class="description">
               <p class="course">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution | markdownify }}</p>
-              <!--<p class="institution">
+              <!--<p class="institution">{{ .institution | markdownify }}</p>-->
+              <p class="institution">
                 {{ if .url_institution }}
                   <a href="{{ .url_institution }}"> {{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
-              </p>-->
+              </p>
             </div>
             {{ end }}
           </li>
