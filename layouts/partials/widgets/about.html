@@ -95,11 +95,27 @@
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
           <li>
+            {{ if .course }}
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <!--<p class="institution">{{ .institution }}</p>-->
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              </p>
+            </div>
+            {{ end }}
+            {{ if .certificate }}
+            <i class="fa-li fas fa-certificate"></i>
+            <div class="description">
+              <p class="course">{{ .certificate }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
+            {{ end }}
           </li>
           {{ end }}
         </ul>
