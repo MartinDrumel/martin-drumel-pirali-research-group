@@ -23,15 +23,12 @@ interests:
 
 education:
   courses:
+  - fa-university: Postdoc
+    institution: Harvard
+    year: 2014-2017
   - course: PhD in Physics
     institution: University of Paris-Sud
     year: 2012
-  - course: MSc in Chemistry
-    institution: University of Paris-Sud
-    year: 2009
-  - course: BSc in Chemistry
-    institution: University of Paris-Sud
-    year: 2007
 
 
 # Social/Academic Networking
