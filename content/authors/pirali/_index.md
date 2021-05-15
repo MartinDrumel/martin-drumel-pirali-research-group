@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - position: postdoc group of Prof. truc
+    institution: Stanford University
+    year: 2006-2007
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012

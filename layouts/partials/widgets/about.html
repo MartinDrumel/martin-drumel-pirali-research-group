@@ -116,6 +116,13 @@
               <p class="institution">{{ .institution }}</p>
             </div>
             {{ end }}
+            {{ if .position }}
+            <i class="fa-li fas fa-university"></i>
+            <div class="description">
+              <p class="course">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+            {{ end }}
           </li>
           {{ end }}
         </ul>
