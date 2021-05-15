@@ -28,6 +28,7 @@ education:
   courses:
   - position: Researcher
     institution: CNRS, ISMO
+    url_institution: http://www.ismo.universite-paris-saclay.fr/?lang=en
     year: since 2017
   - position: Postdoc 
     institution: Group of Mike McCarthy, Center for Astrophysics | Harvard & Smithsonian
