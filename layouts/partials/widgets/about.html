@@ -102,7 +102,7 @@
               <!--<p class="institution">{{ .institution }}</p>-->
               <p class="institution">
                 {{ if .url_institution }}
-                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                  <a href="{{ .url_institution }}" target="_blank"> {{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
@@ -115,7 +115,7 @@
               <p class="course">{{ .certificate }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">
                 {{ if .url_institution }}
-                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                  <a href="{{ .url_institution }}" target="_blank"> {{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
@@ -129,7 +129,7 @@
               <!--<p class="institution">{{ .institution | markdownify }}</p>-->
               <p class="institution">
                 {{ if .url_institution }}
-                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                  <a href="{{ .url_institution }}" target="_blank"> {{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
