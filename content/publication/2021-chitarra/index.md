@@ -45,4 +45,3 @@ projects:
 
 This article is part of the special issue [Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ).
 
-{{< icon name="hal" pack="ai" >}} ESI {{< staticref "files/MartinDrumel_prodScientifique.pdf" "newtab" >}}ESI{{< /staticref >}}.
