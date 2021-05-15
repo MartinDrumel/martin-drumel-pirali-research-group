@@ -35,10 +35,9 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-[[education.courses]]
-  certificate = "IoT Interfaces and Biology"
-  institution = "Massachusetts Institute of Technology"
-  year = 2017
+  - certificate = "IoT Interfaces and Biology"
+    institution = "Massachusetts Institute of Technology"
+    year = 2017
 
 
 
