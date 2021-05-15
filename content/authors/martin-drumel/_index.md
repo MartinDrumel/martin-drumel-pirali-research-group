@@ -30,7 +30,8 @@ education:
     institution: CNRS, ISMO
     year: since 2017
   - position: Postdoc 
-    institution: [Group of Mike McCarthy](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html), [Center for Astrophysics](https://www.cfa.harvard.edu/), Cambridge MA, USA
+    institution: [Group of Mike McCarthy](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html),
+#    [Center for Astrophysics](https://www.cfa.harvard.edu/), Cambridge MA, USA
     year: 2014-2017
 #  - position: Postdoc 
 #    institution: [Group of Stephan Schlemmer](https://astro.uni-koeln.de/schlemmer), [I. Phys. Institut](https://astro.uni-koeln.de/) University of Cologne, Germany
