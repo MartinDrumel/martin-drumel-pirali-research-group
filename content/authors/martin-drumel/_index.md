@@ -36,7 +36,7 @@ education:
     institution: I. Phys. Institut Cologne, Germany
     year: 2013-2014
   - position: Postdoc group of Gaël Mouret
-    institution: LPCA Dunkirk, France
+    institution: LPCA Dunkirk, France [Center for Astrophysics](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
     year: 2012-2013
   - course: PhD in Physics
     institution: University of Paris-Sud (Paris-Saclay) [Center for Astrophysics](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
