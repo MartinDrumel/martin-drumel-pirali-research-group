@@ -29,17 +29,17 @@ education:
   - position: Researcher
     institution: CNRS, ISMO
     year: since 2017
-  - position: Postdoc, group of Dr. Mike McCarthy
-    institution: [Center for Astrophysics](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
+  - position: Postdoc, group of Mike McCarthy
+    institution: Center for Astrophysics
     year: 2014-2017
-  - position: Postdoc, group of Prof.Dr. Stephan Schlemmer
+  - position: Postdoc, group of Stephan Schlemmer
     institution: I. Phys. Institut Cologne, Germany
     year: 2013-2014
-  - position: Postdoc group of Prof. Gaël Mouret
+  - position: Postdoc group of Gaël Mouret
     institution: LPCA Dunkirk, France
     year: 2012-2013
   - course: PhD in Physics
-    institution: University of Paris-Sud (Paris-Saclay)
+    institution: University of Paris-Sud (Paris-Saclay) [Center for Astrophysics](https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html)
     year: 2012
 
 
