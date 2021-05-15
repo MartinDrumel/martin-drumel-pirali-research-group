@@ -30,7 +30,7 @@ education:
     institution: CNRS
     year: since 2017
   - position: Postdoc, group of Dr. Mike McCarthy
-    institution: Center for Astrophysics
+    institution: Center for Astrophysics https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html
     year: 2014-2017
   - position: Postdoc, group of Prof.Dr. Stephan Schlemmer
     institution: I. Phys. Institut Cologne, Germany
