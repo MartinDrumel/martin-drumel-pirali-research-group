@@ -39,9 +39,9 @@ education:
   - position: Postdoc 
     institution: Group of Gaël Mouret, [LPCA](https://lpca.univ-littoral.fr/),  Dunkirk, France
     year: 2012-2013
-  - course: PhD in Physics
-    institution: [University of Paris-Sud](https://www.universite-paris-saclay.fr/) (Paris-Saclay) 
-    year: 2012
+# - course: PhD in Physics
+#   institution: [University of Paris-Sud](https://www.universite-paris-saclay.fr/) (Paris-Saclay) 
+#   year: 2012
 
 
 # Social/Academic Networking
