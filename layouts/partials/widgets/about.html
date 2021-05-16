@@ -57,7 +57,7 @@
         <!--{{ else if in (slice "http" "https" ) $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}-->
-        {{ else if $scheme }}
+        {{ else }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
