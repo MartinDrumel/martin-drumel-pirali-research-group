@@ -54,7 +54,7 @@
         {{ $target := "" }}
         {{ if not $scheme }}
           {{ $link = .link | relLangURL }}
-        {{ else if in (slice "http" "https" ) $scheme }}
+        {{ else }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
