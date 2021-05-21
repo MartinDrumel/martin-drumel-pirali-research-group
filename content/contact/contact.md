@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-For any inquiry, please contact {{% mention "martin-drumel" %}} or {{% mention "pirali" %}}.
+For any inquiry, please contact {{% mention "martin-drumel" %}} and {{% mention "pirali" %}}.
