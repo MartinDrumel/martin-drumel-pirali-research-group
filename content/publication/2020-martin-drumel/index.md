@@ -24,6 +24,7 @@ summary: We report the re-investigation of $trans$-butadiene far-infrared spectr
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+- jet-ailes
+- ft-fir
 ---
 
