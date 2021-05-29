@@ -16,7 +16,7 @@ featured: false
 
 
 # Summary. An optional shortened abstract.
-summary:We report the gas-phase detection and spectroscopic characterisation of ethynethiol (HCCSH), a metastable isomer of thioketene (H<sub>2</sub>C<sub>2</sub>S) using a combination of Fourier-transform microwave and submillimetre-wave spectroscopies.
+summary: We report the gas-phase detection and spectroscopic characterisation of ethynethiol (HCCSH), a metastable isomer of thioketene (H<sub>2</sub>C<sub>2</sub>S) using a combination of Fourier-transform microwave and submillimetre-wave spectroscopies.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
