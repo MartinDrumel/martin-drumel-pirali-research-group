@@ -18,6 +18,7 @@ Pure rotational spectra have been recorded at millimeter wavelengths (75--220 GH
 Quantum chemical calculations have been performed on these two $C_{3v}$ rotors to support the spectral analysis enabling the assignment, for both species, of more than 7000 pure rotational transitions in the ground (A$_1$ symmetry) and first vibrationally excited (E symmetry) states, and of most of the infrared active bands.
 The pure rotational lines were fit to their experimental accuracy using a symmetric-top Hamiltonian. 
 Our study provides all necessary information for an active search of these species in space."
+
 featured: false
 
 
