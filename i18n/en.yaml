@@ -76,7 +76,7 @@
   translation: Code
 
 - id: btn_dataset
-  translation: Dataset
+  translation: ESI
 
 - id: btn_project
   translation: Project
