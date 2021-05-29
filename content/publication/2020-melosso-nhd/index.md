@@ -1,5 +1,5 @@
 ---
-title: "First detection of NHD and ND<sub>2</sub> in the interstellar medium - Amidogen deuteration in IRAS 16293-2422"
+title: "First detection of NHD and ND$_2$ in the interstellar medium - Amidogen deuteration in IRAS 16293-2422"
 date: 2020-01-01
 publishDate: 2021-05-02T14:24:07.309355Z
 authors: [" Mattia Melosso", " Luca Bizzocchi", " B. M. Giuliano", " L. Dore", " F. Tamassia", "Marie-Aline Martin-Drumel", " Olivier Pirali", " O. Sipilä", " E. Redaelli", " Paola Caselli"]
