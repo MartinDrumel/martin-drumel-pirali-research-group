@@ -9,6 +9,9 @@ publication: "*Astronomy & Astrophysics*"
 doi: "10.1051/0004-6361/201935032"
 
 
+url_dataset: "2019-martin-drumel-c2h3sh_ESI.zip"
+
+
 # Abstract
 abstract: "New laboratory investigations of the rotational spectrum of postulated astronomical species are essential to support the assignment and analysis of current astronomical surveys. In particular, considerable interest surrounds sulfur analogs of oxygen-containing interstellar molecules and their isomers.
 To enable reliable interstellar searches of vinyl mercaptan, the sulfur-containing analog to the astronomical species vinyl alcohol, we investigated its pure rotational spectrum at millimeter wavelengths.
