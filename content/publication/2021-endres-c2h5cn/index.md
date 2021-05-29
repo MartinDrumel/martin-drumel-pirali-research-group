@@ -30,8 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#- 
+projects:
+- ft-fir 
 ---
 
 This article is part of a special issue on [Astronomical Spectroscopy](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/10V9XVHVRBN).
