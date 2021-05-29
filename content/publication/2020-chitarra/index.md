@@ -10,6 +10,8 @@ featured: false
 publication: "*Astronomy & Astrophysics*"
 doi: "10.1051/0004-6361/202039071"
 
+url_dataset: "2020-chitarra_ESI.zip"
+
 # Abstract
 abstract: "The hydroxymethyl radical (CH<sub>2</sub>OH) is one of two structural isomers, together with the methoxy radical (CH<sub>3</sub>O), that can be produced by abstraction of a hydrogen atom from methanol (CH<sub>3</sub>OH). In the interstellar medium (ISM), both CH<sub>2</sub>OH and CH<sub>3</sub>O are suspected to be intermediate species in many chemical reactions, including those of formation and destruction of methanol. The determination of the CH<sub>3</sub>O/CH<sub>2</sub>OH ratio in the ISM would bring important information concerning the formation processes of these species in the gas and solid phases. Interestingly, only CH<sub>3</sub>O has been detected in the ISM so far, despite the recent first laboratory measurement of the CH<sub>2</sub>OH rotation-tunneling spectrum. This lack of detection is possibly due to the non-observation in the laboratory of the most intense rotation-tunneling transitions at low temperatures.
 
@@ -24,7 +26,7 @@ summary: In this work, we report a new investigation of the rotation tunneling s
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ)'
+  caption: ''
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
