@@ -1,5 +1,7 @@
 ---
 title: (sub)millimeter-wave spectroscopy 
+summary: "Rotational spectroscopy of astrophysically-relevant species"
+authors: [Olivier Pirali, Marie-Aline Martin-Drumel]
 
 # View.
 #   1 = List
@@ -13,67 +15,7 @@ header:
   image: ""
 ---
 
-We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
+The advent of new generation observational platforms as the Atacama Large Millimeter Array (ALMA) and the NOrthern Extended Millimeter Array (NOEMA), that allows observation of various astrophysical objects in the millimeter and submillimeter wavelengths (roughly 50 GHz -1 THz), strengthen the need for laboratory data in this spectral range for molecules of astrophysical interest.
+To enable new interstellar detections, our groups investigate in the laboratory the rotational spectrum of molecules, both stable and reactive (produced by radiofrequency, microwave, electrical discharges or H abstraction by F atoms), in this spectral region where the observed transitions act as unique fingerprints. 
 
-[Scroll down to a page section with heading another](#exp)
-
-{{< toc >}}
-
-
-## Heading 2
-HR spectroscopy mm to FIR
-
-## Heading 2
-Exp devlpment
-
-> This is a blockquote.
-
-This is a {{< hl >}}highlighted quote{{< /hl >}}.
-
-1. First item
-   1. A sub-item
-2. Another item
-
-- First item
-  - A sub-item
-- Another item
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-
-{{< gallery album="gallery" >}}
-gallery_item:
-- album: gallery
-  image: IMG_20210505_101014.jpg
-  caption: test
-  
-  
-## Heading 2
-Whatever
-
-To cite a page or publication, you can use the cite shortcode, referencing a folder and page name that you created:
-
-{{< cite page="/publication/2021-chitarra" view="1" >}}
-
-{{< cite page="/publication/2021-chitarra" view="2" >}}
-
-{{< cite page="/publication/2021-chitarra" view="3" >}}
-
-{{< cite page="/publication/2021-chitarra" view="4" >}}
-
-where view corresponds to one of the available listing views used throughout Wowchemy:
-
-1 Stream
-2 Compact
-3 Card
-4 Traditional academic citation, configured by the citation_style setting in params.yaml
-
-If you don’t specify a view, it will default to the compact view.
-
-
-To cross-reference a figure, provide it with an ID, for example: {{< figure src="IMG_20210505_101014.jpg" id="wowchemy" >}}.
-Assets images library {{< figure src="icon.png" id="wowchemy" >}}
-
-The figure can now be cross-referenced with a link in the form [A Figure](#figure-wowchemy).
+We use a two (sub)millimeter spectrometers: one allowing to cover the 75-900 GHz region using electronic sources (frequency multiplication chain) and one broadband (chirped-pulse) spectrometer operating in the 75-110 GHz region.
