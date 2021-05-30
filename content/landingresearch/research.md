@@ -9,7 +9,7 @@ headless: false
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Research Interests
+#title: Research Interests
 #subtitle:
 
 content:  
@@ -42,7 +42,7 @@ design:
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---

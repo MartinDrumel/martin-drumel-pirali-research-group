@@ -13,7 +13,6 @@ header:
   image: ""
 ---
 
-We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
 
 
 

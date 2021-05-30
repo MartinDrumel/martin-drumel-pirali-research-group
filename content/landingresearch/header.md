@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Research Interests"
 subtitle: ""
-hero_media: electromagnetic.jpg
+hero_media: electromagnetic.png
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -18,4 +18,4 @@ advanced:
   css_class:
 ---
 
-High resolution spectroscopy from the millimeter-wave to the terahertz domain.
+We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
