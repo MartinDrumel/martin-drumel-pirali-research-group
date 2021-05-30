@@ -27,12 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Lab. astro.
+    - name: Laboratory astrophysics
       tag: labastro
-    - name: Exp. development
+    - name: Experimental development
       tag: exp
     - name: Synchrotron
       tag: soleil
+    - name: (sub)millimeter-wave
+      tag: submm
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

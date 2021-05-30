@@ -4,7 +4,7 @@
 title: "TERAMET"
 summary: "Hz-level frequency generation in the TeraHertz range. Generation, characterization, and applications "
 authors: [Olivier Pirali, Marie-Aline Martin-Drumel, S. Kassi (LiPhy)]
-tags: []
+tags: [exp]
 categories: []
 date: 2021-05-02T15:52:25+02:00
 
