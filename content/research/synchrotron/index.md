@@ -19,23 +19,16 @@ header:
 {{< toc >}}
 
 
-## Heading 2
-Vibrational spectroscopy of astrophysically-relevant molecules
+## Vibrational spectroscopy of astrophysically-relevant molecules
 
-## Heading 2
-Rotationally-resolved spectroscopy
+## Rotationally-resolved spectroscopy
 
-## Heading 3
-Stable molecules
+### Stable molecules
 
-## Heading 3
-Reactive species
+### Reactive species
 
-## Heading 2
-Ultra-high resolution 
+## Ultra-high resolution 
 
-## Heading 3
-Heterodyne spectroscopy
+### Heterodyne spectroscopy
 
-## Heading 2
-Dual comb spectroscopy
+### Dual comb spectroscopy
