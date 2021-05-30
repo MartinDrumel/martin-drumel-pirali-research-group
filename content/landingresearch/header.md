@@ -18,4 +18,4 @@ advanced:
   css_class:
 ---
 
-We are interested in rotationally-resolved spectroscopy mainly, but only, in the low-frequency part of the electromagnetic spectrum.
+Spectroscopy in the low-frequency part of the electromagnetic spectrum
