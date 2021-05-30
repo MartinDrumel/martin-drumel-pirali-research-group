@@ -3,6 +3,8 @@
 # Display name
 title: Jean-Thibaut Spaniol
 
+weight: 90
+
 # Username (this should match the folder name)
 authors:
 - spaniol
