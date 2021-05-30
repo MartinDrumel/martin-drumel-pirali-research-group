@@ -3,6 +3,9 @@
 # Display name
 title: Olivia Chitarra
 
+
+weight: 10
+
 # Username (this should match the folder name)
 authors:
 - chitarra
