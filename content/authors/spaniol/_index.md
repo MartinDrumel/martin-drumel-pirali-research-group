@@ -3,7 +3,7 @@
 # Display name
 title: Jean-Thibaut Spaniol
 
-weight: 90
+weight: 30
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: University Paris-Saclay
+- name: Paris-Saclay University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
