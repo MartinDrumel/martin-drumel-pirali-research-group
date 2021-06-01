@@ -2,7 +2,7 @@
 title: "Generation and structural characterization of Ge carbides GeC$_n$ ($n=4,5,6)$ by laser ablation, broadband rotational spectroscopy, and quantum chemistry"
 date: 2019-08-01
 publishDate: 2021-05-02T15:13:36.102766Z
-authors: ["Kin Long Kelvin Lee", "Sven Thorwirth", "Marie-Aline Martin-Drumel", "Michael C. McCarthy"]
+authors: ["Kin Long Kelvin Lee", "Sven Thorwirth", martin-drumel, "Michael C. McCarthy"]
 publication_types: ["2"]
 featured: false
 publication: "*Physical Chemistry Chemical Physics*"

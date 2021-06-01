@@ -2,7 +2,7 @@
 title: "Rotational spectrum of the $β$-cyanovinyl radical: A possible astrophysical N-heterocycle precursor"
 date: 2019-05-01
 publishDate: 2021-05-02T15:13:36.102026Z
-authors: ["Sommer L. Johansen", "Marie-Aline Martin-Drumel", "Kyle N. Crabtree"]
+authors: ["Sommer L. Johansen", martin-drumel, "Kyle N. Crabtree"]
 publication_types: ["2"]
 featured: false
 publication: "*The Journal of Physical Chemistry A*"

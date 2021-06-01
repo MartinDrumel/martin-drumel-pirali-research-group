@@ -2,7 +2,7 @@
 title: "SOLEIL and ALMA views on prototypical organic nitriles: C$_2$H$_5$CN"
 date: 2021-01-01
 publishDate: 2021-05-02T11:46:22.283109Z
-authors: ["Christian P. Endres", "Marie-Aline Martin-Drumel", "Oliver Zingsheim", "Luis Bonah", "Olivier Pirali", "Tianwei Zhang", "Álvaro Sánchez-Monge", "Thomas Möller", "Nadine Wehres", "Peter Schilke", "Michael C. McCarthy", "Stephan Schlemmer", "Paola Caselli", "Sven Thorwirth"]
+authors: ["Christian P. Endres", martin-drumel, "Oliver Zingsheim", "Luis Bonah", pirali, "Tianwei Zhang", "Álvaro Sánchez-Monge", "Thomas Möller", "Nadine Wehres", "Peter Schilke", "Michael C. McCarthy", "Stephan Schlemmer", "Paola Caselli", "Sven Thorwirth"]
 publication_types: ["2"]
 abstract: "The high resolution vibrational spectrum of ethyl cyanide (C<sub>2</sub>H<sub>5</sub>CN) has been investigated  in the far-IR using synchrotron-based Fourier transform spectroscopy. The assignment was performed using the Automated Spectral Assignment Procedure (ASAP) allowing accurate rotational energy levels of the four lowest fundamental vibrations of the species, namely the $v_{13}=1$ @ 205.934099(8) cm$^{-1}$, and $v_{21}=1$ @ 212.141101(8) cm$^{-1}$, $v_{20}=1$ @ 372.635293(15) cm$^{-1}$, $v_{12} =1$ @ 532.699617(16) cm$^{-1}$ states, to be determined. The analysis not only confirms the applicability of the ASAP in the treatment of (dense) high-resolution infrared spectra but also reveals some of its limitations.
 Complementary to the infrared study, the pure rotational spectrum of C<sub>2</sub>H<sub>5</sub>CN was also studied in selected frequency ranges from 75 to 255 GHz. 
