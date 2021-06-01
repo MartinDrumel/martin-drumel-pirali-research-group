@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Chitarra
+title: Olivia Chitarra
 
 # Username (this should match the folder name)
 authors:
