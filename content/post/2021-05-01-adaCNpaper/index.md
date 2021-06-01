@@ -7,4 +7,4 @@ Rotational and vibrational spectroscopy of 1-cyanoadamantane and 1-isocyanoadama
  
 <!--more-->
 
-Check out our new [publication]({{< relref "/publication/2021-chitarra-AdaCN" >}}).
+Check out our new publication!
