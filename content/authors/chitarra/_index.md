@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Jean-Thibaut Chitarra
+title: Olivia Chitarra
 
 weight: 30
 
