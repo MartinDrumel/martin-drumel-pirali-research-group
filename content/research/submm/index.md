@@ -1,7 +1,7 @@
 ---
 title: (sub)millimeter-wave spectroscopy 
 summary: "Rotational spectroscopy of astrophysically-relevant species"
-authors: [Olivier Pirali, Marie-Aline Martin-Drumel]
+authors: []
 
 # View.
 #   1 = List
