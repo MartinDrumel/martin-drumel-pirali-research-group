@@ -1,7 +1,7 @@
 ---
 title: Synchrotron-based far-infrared spectroscopy
 summary: "Exploiting synchrotron radiation at high resolution"
-authors: [Olivier Pirali, Marie-Aline Martin-Drumel]
+authors: []
 
 # View.
 #   1 = List
