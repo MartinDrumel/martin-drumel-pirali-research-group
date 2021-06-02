@@ -1,6 +1,6 @@
 ---
 title: Ultra-high resolution terahertz spectroscopy
-summary: "New solution for (sub-)Doppler spectroscopy in the terahertz domain"
+summary: "New solutions for (sub-)Doppler spectroscopy in the terahertz domain"
 authors: []
 
 # View.
@@ -15,4 +15,4 @@ header:
   image: ""
 ---
 
-Meteorit + Heroes heterodyne en emission ou avec continuum hors synchrotron
+Meteorit + HEROES heterodyne en emission ou avec continuum hors synchrotron
