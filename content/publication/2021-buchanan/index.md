@@ -2,7 +2,7 @@
 title: "A rotational and vibrational investigation of phenylpropiolonitrile (C$_6$H$_5$C$_3$N)"
 date: 2021-03-01
 publishDate: 2021-05-02T11:46:22.284378Z
-authors: ["Zachary Buchanan", "Kin Long Kelvin Lee", chitarra, "Michael C. McCarthy", pirali, martin-drumel]
+authors: [buchanan, "Kin Long Kelvin Lee", chitarra, "Michael C. McCarthy", pirali, martin-drumel]
 publication_types: ["2"]
 
 abstract: "The evidence for benzonitrile (C<sub>6</sub>H<sub>5</sub>CN) in the starless cloud core TMC--1 makes high-resolution studies of other aromatic nitriles and their ring-chain derivatives especially timely.  One such species is phenylpropiolonitrile (3-phenyl-2-propynenitrile, C<sub>6</sub>H<sub>5</sub>C<sub>3</sub>N), whose  spectroscopic characterization is reported here for the first time.

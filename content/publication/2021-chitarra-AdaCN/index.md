@@ -2,7 +2,7 @@
 title: "Rotational and vibrational spectroscopy of 1-cyanoadamantane and 1-isocyanoadamantane"
 date: 2021-05-01
 publishDate: 2021-05-02T11:46:22.286087Z
-authors: [chitarra, martin-drumel, "Zachary Buchanan", pirali]
+authors: [chitarra, martin-drumel, buchanan, pirali]
 publication_types: ["2"]
 
 publication: "*The Journal of Molecular Spectroscopy*"

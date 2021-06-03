@@ -83,7 +83,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* ([ISMO](http://www.ismo.universite-paris-saclay.fr/?lang=en)) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and reactive species, and its applications for astrophysics and physical-chemistry. She was awarded the CNRS bronze medal in 2021.
