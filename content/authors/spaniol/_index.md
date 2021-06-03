@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Jean-Thibaut Spaniol icon: :trophy:
+title: Jean-Thibaut Spaniol 
 
 #weight: 90
 
@@ -58,4 +58,4 @@ user_groups:
 - Postdocs and Students
 ---
 
-Jean Thibaut is a 6-month intern who worked on rotational spectra of several stable molecules (ethynylbenzonitrile isomers) and on methanol-derivatives radicals. #He is now professor of physics-chemistry in Paris. 
+Jean-Thibaut icon: :trophy: is a 6-month intern who worked on rotational spectra of several stable molecules (ethynylbenzonitrile isomers) and on methanol-derivatives radicals. #He is now professor of physics-chemistry in Paris. 
