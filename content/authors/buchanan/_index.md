@@ -72,4 +72,4 @@ user_groups:
 - Former Members
 ---
 
-Zachary is PhD student in the [group of prof. Kyle N. Crabtree](https://crabtreelab.ucdavis.edu/) in the Univerity of California Davis. In 2019, he was granted a Chateaubriand Fellowship of the Office for Science & Technology of the Embassy of France in the United States. He spent 6 months at ISMO.
+Zachary is PhD student in the [group of prof. Kyle N. Crabtree](https://crabtreelab.ucdavis.edu/) in the Univerity of California Davis. In 2019, he was awarded a Chateaubriand Fellowship of the Office for Science & Technology of the Embassy of France in the United States. He spent 6 months at ISMO.
