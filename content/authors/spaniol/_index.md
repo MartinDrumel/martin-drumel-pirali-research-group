@@ -56,6 +56,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Postdocs and Students
+
+#He is now professor of physics-chemistry in Paris. 
 ---
 
-Jean-Thibaut icon: :trophy: is a 6-month intern who worked on rotational spectra of several stable molecules (ethynylbenzonitrile isomers) and on methanol-derivatives radicals. #He is now professor of physics-chemistry in Paris. 
+Jean-Thibaut :trophy: is a 6-month intern who worked on rotational spectra of several stable molecules (ethynylbenzonitrile isomers) and on methanol-derivatives radicals. 
