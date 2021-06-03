@@ -60,4 +60,4 @@ user_groups:
 #He is now professor of physics-chemistry in Paris. 
 ---
 
-Jean-Thibaut :trophy: is a 6-month intern who worked on rotational spectra of several stable molecules (ethynylbenzonitrile isomers) and on methanol-derivatives radicals. 
+Jean-Thibaut :trophy: is a 6-month intern who is working on rotational spectra of several stable molecules (ethynylbenzonitrile isomers) and on methanol-derivatives radicals. 
