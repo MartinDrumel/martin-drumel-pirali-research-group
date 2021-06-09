@@ -29,6 +29,7 @@ interests:
 - Golf, rugby, and making music
 
 education:
+  courses:
   - position: Postdoc 
     institution: CNRS, ISMO, Université Paris-Saclay, Orsay, France
     url_institution: http://www.ismo.universite-paris-saclay.fr/?lang=en
@@ -50,14 +51,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:thomas.hearne@universite-paris-saclay.fr'
- - icon: orcid
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2731-0327
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/CV-english-THOMAS_HEARNE-2021_2.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV-english-THOMAS_HEARNE-2021_2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
