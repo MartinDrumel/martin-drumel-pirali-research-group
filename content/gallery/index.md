@@ -44,29 +44,6 @@ lastmod: "2020-11-03T00:00:00Z"
 ##   This is useful for sticky, announcement blog posts or selected publications etc.
 featured: false   
 
-## By setting `draft: true`, only you will see your page 
-##   when you preview your site locally on your computer.
-draft: false
-
-## Featured image
-##   To use, add an image named `featured.jpg/png` to your page's folder.
-##   Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-##   Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 1
-  caption: "Credit by [**Wowchemy**](https://wowchemy.com/)"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-
-
-## Projects (optional).
-##   Associate this post with one or more of your projects.
-##   Simply enter your project's folder or file name without extension.
-##   E.g. `projects = ["internal-project"]` references `content/project/internal-project/index.md`.
-##   Otherwise, set `projects = []`.
-projects: [GWDA]
-
 ## Page resources
 ##   Buttons can be generated in the page header to link to associated resources.
 ##   The example below shows how to create a Twitter link for a project and 
@@ -81,22 +58,13 @@ links:
   #   name: Originally published on Medium
   #   url: 'https://medium.com'   # (required)
 
-## The following parameters can be added to the front matter of 
-##   a page (such as a blog post) to control its features:
-reading_time: true  # Show estimated reading time?
-share: true  # Show social sharing links?
-profile: true  # Show author profile?
-commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.    
-
-## To enable LaTeX math rendering for a page, you should include `math: true` in the page’s front matter.
-##   I have enabled math on the homepage or for all pages, by globally setting `math = true` in `config/_default/params`
-# math: true
-
-## Enable a Markdown extension for diagrams by toggling the diagram 
-##   option in your `config/_default/params.toml` file or 
-##   by adding `diagram: true` to your page front matter.
-diagram: true
+### The following parameters can be added to the front matter of 
+###   a page (such as a blog post) to control its features:
+#reading_time: true  # Show estimated reading time?
+#share: true  # Show social sharing links?
+#profile: true  # Show author profile?
+#commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+#editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.    
 
 ## Image gallery:
 ## To add an image gallery to a page bundle
@@ -122,3 +90,4 @@ gallery_item:
 #  caption: "Image credit: [**MLflow**](https://mlflow.org)"
 ---
 
+{{< gallery album="gallerytest" >}}
