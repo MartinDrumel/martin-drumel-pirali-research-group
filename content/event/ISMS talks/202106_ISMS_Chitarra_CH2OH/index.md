@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "files/2021_ISMS/WJ03"
+url_pdf: "files/2021_ISMS/WJ03.pdf"
 url_slides: ""
 url_video: "https://youtu.be/Y48EoYIPtaA"
 
