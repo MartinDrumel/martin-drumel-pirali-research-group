@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 Olivier Pirali is director of research at the Institut des Sciences Moléculaires d'Orsay (CNRS-Université Paris-Saclay), France. His research includes high resolution molecular spectroscopy of a large panel of molecular species as well as the development of new techniques for THz spectroscopy. 
