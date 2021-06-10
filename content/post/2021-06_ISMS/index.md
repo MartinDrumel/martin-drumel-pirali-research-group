@@ -8,5 +8,5 @@ Watch the talks and check the slides from our group members at the conference.
 
 <!--more-->
 
-Talks are available [here]({{< relref "/events/2021/ISMS" >}}).
+Talks are available [here]({{< relref "/events/2021_ISMS" >}}).
 

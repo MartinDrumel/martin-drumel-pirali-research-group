@@ -63,3 +63,8 @@ We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room
 [2] O. Chitarra et al., *Astronomy and Astrophysics* (2020) 644, A 123 
 
 {{< cite page="/publication/2020-chitarra-ch2oh" view="3" >}}
+
+
+{{< cite page="/publication/2020-chitarra-ch2oh" view="4" >}}
+
+{{< cite page="/publication/2020-chitarra-ch2oh" view="5" >}}
