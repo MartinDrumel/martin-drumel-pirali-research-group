@@ -24,8 +24,9 @@ organizations:
 bio: Zachary was a Chateaubriand Fellow at ISMO in 2019.
 
 interests:
-- Kinetics Instrument
-- Laval Nozzle
+- Reaction kinetics in a uniform supersonic flow
+- Instrumentation
+- Microwave spectroscopy
 
 
 education:
@@ -48,16 +49,20 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:thomas.hearne@universite-paris-saclay.fr'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/UCBuchanan
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
+- icon: github
+  icon_pack: fab
+  link: https://github.com/zsb1010
+- icon: linkedin
+  icon_pack: fab
+  link:https://www.linkedin.com/in/zsb1010/
+  
+# Link to a PDF of your resume/CV from the About 
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
