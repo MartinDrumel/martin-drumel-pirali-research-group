@@ -38,6 +38,11 @@ gallery_item:
 - album: 'galleryISMO'
   image: '20201016_142223.jpg'
   caption: 'One of the firsts plasma oberved in our supersonic expansion' 
+- album: 'galleryISMO'
+  image: '20190312_161944.jpg'
+  caption: 'RF discharge and disco lab!' 
+
+
 # - album: gallery        # can not be replaced
 #   image: 'sketch5.png'  # `static/media/sketch5.png`
 #   caption: A caption    # only shown when zoom out
