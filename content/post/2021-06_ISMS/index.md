@@ -1,7 +1,7 @@
 ---
 title: Talks and slides from the ISMS conference available!
 date: 2021-05-01
-author:
+author: []
 ---
 
 Watch the talks and check the slides from our group members at the conference.
