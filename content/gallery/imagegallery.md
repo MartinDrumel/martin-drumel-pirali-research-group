@@ -23,6 +23,15 @@ gallery_item:
 - album: 'galleryISMO'
   image: '20210505_op.jpg'
   caption: 'Testing the solidity of our installation!' 
+- album: 'galleryISMO'
+  image: '20181026_op.jpg'
+  caption: 'Moving can be fun!'  
+- album: 'galleryISMO'
+  image: '20181106_opgb.jpg'
+  caption: 'A good experimentalist knows how to use many tools' 
+- album: 'galleryISMO'
+  image: '20181106_op.jpg'
+  caption: '' 
 # - album: gallery        # can not be replaced
 #   image: 'sketch5.png'  # `static/media/sketch5.png`
 #   caption: A caption    # only shown when zoom out
