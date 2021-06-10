@@ -5,6 +5,11 @@ title: Marie-Aline Martin-Drumel
 # Is this the primary user of the site?
 superuser: false
 
+# Username (this should match the folder name)
+authors:
+- martin-drumel
+
+
 # Role/position
 role: Researcher
 
