@@ -35,6 +35,9 @@ gallery_item:
 - album: 'galleryISMO'
   image: '1622644453151.jpg'
   caption: 'After months of measurements, the F-reaction cell gets really dirty!' 
+- album: 'galleryISMO'
+  image: '20201016_142223.jpg'
+  caption: 'One of the firsts plasma oberved in our supersonic expansion' 
 # - album: gallery        # can not be replaced
 #   image: 'sketch5.png'  # `static/media/sketch5.png`
 #   caption: A caption    # only shown when zoom out
