@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Research Interests"
-subtitle: ""
+subtitle: "High resolution spectroscopy in the low-frequency part of the electromagnetic spectrum"
 hero_media: electromagnetic.png
 
 design:
@@ -18,4 +18,4 @@ advanced:
   css_class:
 ---
 
-We perform spectroscopy in the low-frequency part of the electromagnetic spectrum, with a main focus on astrophysical species (stable molecules and reactive species). As a joke, we often refer to ourselves as the SPAM team: Soft Photons for Astrophysical Molecules!
+We perform , with a main focus on astrophysical species (stable molecules and reactive species). As a joke, we often refer to ourselves as the SPAM team: Soft Photons for Astrophysical Molecules!
