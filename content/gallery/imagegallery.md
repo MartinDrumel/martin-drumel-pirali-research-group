@@ -1,4 +1,6 @@
 ---
+widget: blanck
+
 ## The title of your page (Core)
 title: Adventures in the lab
 ## An optional subtitle that will be displayed under the title
