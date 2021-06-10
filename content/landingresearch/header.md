@@ -18,4 +18,4 @@ advanced:
   css_class:
 ---
 
-Spectroscopy in the low-frequency part of the electromagnetic spectrum
+We perform spectroscopy in the low-frequency part of the electromagnetic spectrum, with a main focus on astrophysical species (stable molecules and reactive species). As a joke, we often refer to ourselves as the SPAM team: Soft Photons for Astrophysical Molecules!
