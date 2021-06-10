@@ -52,3 +52,5 @@ gallery_item:
 #   caption: Another caption  # only shown when zoom out
 ---
 
+{{< gallery album="gallery" >}}
+
