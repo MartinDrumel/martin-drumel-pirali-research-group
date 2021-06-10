@@ -6,11 +6,11 @@ event_url: http://isms.illinois.edu/
 
 location: Virtual Conference
 address:
-  street: University of Illinois
-  city: Urbana
-  region: Illinois
-  postcode: '61801'
-  country: USA
+  street: University of Illinois, USA
+# city: Urbana
+# region: Illinois
+# postcode: '61801'
+# country: USA
 
 summary: Talk from Olivia on CH<sub>2</sub>OH at ISMS [WJ03]
 abstract: ""
@@ -64,7 +64,3 @@ We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room
 
 {{< cite page="/publication/2020-chitarra-ch2oh" view="3" >}}
 
-
-{{< cite page="/publication/2020-chitarra-ch2oh" view="4" >}}
-
-{{< cite page="/publication/2020-chitarra-ch2oh" view="5" >}}
