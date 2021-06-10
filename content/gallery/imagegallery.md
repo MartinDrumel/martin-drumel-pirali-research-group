@@ -46,10 +46,12 @@ design:
 # - album: gallery        # can not be replaced
 #   image: 'sketch5.png'  # `static/media/sketch5.png`
 #   caption: A caption    # only shown when zoom out
- - album: gallery
-   image: https://vip1.loli.net/2020/11/11/OmVGhaz79iQJsvj.png
-   caption: Another caption  # only shown when zoom out
+#- album: gallery
+#  image: https://vip1.loli.net/2020/11/11/OmVGhaz79iQJsvj.png
+#  caption: Another caption  # only shown when zoom out
+
+#{{< gallery album="gallery" >}}
 ---
 
-{{< gallery album="gallery" >}}
+test de gallery
 
