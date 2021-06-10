@@ -32,7 +32,7 @@ education:
     url_institution: http://www.istc.int/en/institute/13010
     year: 2006    
   - position: Post-doc 
-    institution: Group of Dennis Tokary, Department of Physic, University of New-Brunswick, Canada
+    institution: Group of Dennis Tokary, Department of Physics, University of New-Brunswick, Canada
     url_institution: https://www.unb.ca/faculty-staff/directory/science-fr-physics/tokaryk-dennis.html
     year: 2004-2006
   - certificate: PhD

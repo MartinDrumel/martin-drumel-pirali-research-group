@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "2021_ISMS/WJ03"
+url_pdf: "static/files/2021_ISMS/WJ03"
 url_slides: ""
 url_video: "https://youtu.be/Y48EoYIPtaA"
 
@@ -63,10 +63,10 @@ We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room
 [2] O. Chitarra et al., *Astronomy and Astrophysics* (2020) 644, A 123
 
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+#Slides can be added in a few ways:
+#
+#- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+#
+#Further event details, including page elements such as image galleries, can be added to the body of this page.
