@@ -54,7 +54,7 @@ social:
   link: https://github.com/zsb1010
 - icon: linkedin
   icon_pack: fab
-  link:https://www.linkedin.com/in/zsb1010/
+  link: https://www.linkedin.com/in/zsb1010/
 
 # Link to a PDF of your resume/CV from the About 
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
