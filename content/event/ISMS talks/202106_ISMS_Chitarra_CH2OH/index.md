@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "static/files/2021_ISMS/WJ03"
+url_pdf: "files/2021_ISMS/WJ03"
 url_slides: ""
 url_video: "https://youtu.be/Y48EoYIPtaA"
 
@@ -60,7 +60,7 @@ We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room
 
 [1] C. Bermudez et al., *Astronomy and Astrophysics* (2017) 598, A 9
 
-[2] O. Chitarra et al., *Astronomy and Astrophysics* (2020) 644, A 123
+[2] O. Chitarra et al., *Astronomy and Astrophysics* (2020) 644, A 123 {{< cite page="/publication/2020-chitarra-ch2oh" view="1" >}}
 
 
 #Slides can be added in a few ways:
