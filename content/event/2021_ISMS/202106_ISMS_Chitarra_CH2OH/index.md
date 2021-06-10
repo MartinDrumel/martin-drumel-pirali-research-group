@@ -1,5 +1,5 @@
 ---
-title: The pure rotational spectrum of the hydroxymethyl radical reinvestigated to enable its interstellar detection
+title: $talk$ - The pure rotational spectrum of the hydroxymethyl radical reinvestigated to enable its interstellar detection
 
 event: International Symposium on Molecular Spectroscopy
 event_url: http://isms.illinois.edu/
