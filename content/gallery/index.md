@@ -1,6 +1,6 @@
 ---
 ## The title of your page (Core)
-title: Adventures in the lab
+title: Our adventures in the lab
 ## An optional subtitle that will be displayed under the title
 subtitle: 
 
@@ -32,6 +32,9 @@ gallery_item:
 - album: 'galleryISMO'
   image: '20181106_op.jpg'
   caption: '' 
+- album: 'galleryISMO'
+  image: '1622644453151.jpg'
+  caption: 'After months of measurements, the F-reaction cell gets really dirty!' 
 # - album: gallery        # can not be replaced
 #   image: 'sketch5.png'  # `static/media/sketch5.png`
 #   caption: A caption    # only shown when zoom out
