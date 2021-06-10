@@ -4,13 +4,13 @@ title: The pure rotational spectrum of the hydroxymethyl radical reinvestigated 
 event: International Symposium on Molecular Spectroscopy
 event_url: http://isms.illinois.edu/
 
-location: virtual conference
+location: Virtual Conference
 address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+  street: University of Illinois
+  city: Urbana
+  region: Illinois
+  postcode: '61801'
+  country: USA
 
 summary: Talk from Olivia on CH<sub>2</sub>OH at ISMS [WJ03]
 abstract: ""
@@ -62,10 +62,4 @@ We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room
 
 [2] O. Chitarra et al., *Astronomy and Astrophysics* (2020) 644, A 123 
 
-{{< cite page="/publication/2020-chitarra-ch2oh" view="1" >}}
-
-
-
 {{< cite page="/publication/2020-chitarra-ch2oh" view="3" >}}
-{{< cite page="/publication/2020-chitarra-ch2oh" view="4" >}}
-{{< cite page="/publication/2020-chitarra-ch2oh" view="5" >}}
