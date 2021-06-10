@@ -1,51 +1,30 @@
----
-# Display name
-title: Marie-Aline Martin-Drumel
-
-# Is this the primary user of the site?
-superuser: true
-
 # Role/position
-role: Researcher
+role: Director of Research
 
 # Organizations/Affiliations
 organizations:
-- name: CNRS
+- name: Centre National de la Recherche Scientifique (CNRS)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on molecular spectroscopy of stable molecules and reactive species, and its applications for astrophysics and physical-chemistry. 
-
-awards:
-- tests
-- another test
+bio: My research interests includes high resolution molecular spectroscopy, laboratory astrophysics, and THz generation.
 
 interests:
 - High resolution spectroscopy
 - Laboratory astrophysics
+- THz generation and synchrotron radiation 
 
-education:
-  courses:
-  - position: Researcher
-    institution: CNRS, ISMO, Université Paris-Saclay
-    url_institution: http://www.ismo.universite-paris-saclay.fr/?lang=en
-    year: since 2017
-  - position: Postdoc 
-    institution: Group of Mike McCarthy, Center for Astrophysics | Harvard & Smithsonian
-    url_institution: https://lweb.cfa.harvard.edu/amp/mccarthygroup/index.html
-    year: 2014-2017
-  - position: Postdoc 
-    institution: Group of Stephan Schlemmer, I. Phys. Institut, University of Cologne, Germany
-    url_institution: https://astro.uni-koeln.de/schlemmer
-    year: 2013-2014
-  - position: Postdoc 
-    institution: Group of Gaël Mouret, LPCA, Dunkirk, France
-    url_institution: https://lpca.univ-littoral.fr
-    year: 2012-2013
-  - course: PhD in Physics
-    institution: University of Paris-Sud (Paris-Saclay), Orsay, France
-    url_institution: https://www.universite-paris-saclay.fr/en
-    year: 2012
+Research experience:
+  - position: CNRS Researcher
+    institution 
+    year: since 2006
+  - position: Post-doc 2006
+    Group of Jos Oomens, FOM Institute for PlasmaPhysik, The Netherlands 
+  - position: Post-doc 2004-2006
+    Group of Dennis Tokary, Department of Physic, University of New-Brunswick, Canada
+  - certificate: PhD, 2004
+    University of Paris-Sud, Orsay, France
+
 
 
 # Social/Academic Networking
@@ -55,38 +34,32 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:marie-aline.martin@universite-paris-saclay.fr'
-- icon: twitter
+  link: 'mailto:olivier.pirali@universite-paris-saclay.fr'
+#- icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MA_MartinDrumel
-- icon: google-scholar
+  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=a_eeQb0AAAAJ&hl=fr&oi=ao
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-5460-4294
+  link: https://orcid.org/0000-0002-4332-1440
 #- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/MartinDrumel_CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
-Marie-Aline Martin-Drumel is a researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs her research at the *Institut des Sciences Moléculaires d'Orsay* ([ISMO](http://www.ismo.universite-paris-saclay.fr/?lang=en)) in Orsay, France. Her research interests focus on molecular spectroscopy of stable molecules and reactive species, and its applications for astrophysics and physical-chemistry. She was awarded the CNRS bronze medal in 2021.
-
-
-{{< icon name="download" pack="fas" >}} Download a complete list of {{< staticref "files/MartinDrumel_prodScientifique.pdf" "newtab" >}}publications{{< /staticref >}}.
+Olivier Pirali is director of research at the Institut des Sciences Moléculaires d'Orsay (CNRS-Université Paris-Saclay), France. His research includes high resolution molecular spectroscopy of a large panel of molecular species as well as the development of new techniques for THz spectroscopy. 

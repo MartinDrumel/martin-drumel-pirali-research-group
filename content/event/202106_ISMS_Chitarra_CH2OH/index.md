@@ -12,7 +12,7 @@ address:
 #  postcode: '94305'
 #  country: United States
 
-summary: Talk from Olivia on CH2OH at ISMS [WJ03]
+summary: Talk from Olivia on CH<sub>2</sub>OH at ISMS [WJ03]
 abstract: ""
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-06-10T00:00:00Z"
 
-authors: [chitarra, martin-drumel, 'Béranger Gans', pirali, 'Silvia Spezzano', 'Valério Lattanzi', 'Holger S. P. Müller', 'Jean-Christophe Loison']
+authors: [chitarra, martin-drumel, 'Bérenger Gans', pirali, 'Silvia Spezzano', 'Valério Lattanzi', 'Holger S. P. Müller', 'Jean-Christophe Loison']
 tags: []
 
 # Is this a featured talk? (true/false)
