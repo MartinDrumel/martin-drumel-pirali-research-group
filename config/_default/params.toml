@@ -275,3 +275,7 @@ plugins_js  = []
 ## Author profile
 ############################
 profile = false # false: not displayed at the bottom of pages
+
+
+
+plugins_css = ["custom"]
