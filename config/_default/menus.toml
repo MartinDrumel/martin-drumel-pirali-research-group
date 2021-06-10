@@ -18,12 +18,11 @@
   url = "people"
   weight = 30
 
-#[[main]]
-#  name = "Events"
-#  url = "event"
-#  weight = 35
+[[main]]
+  name = "Events"
+  url = "event"
+  weight = 35
   
-
 [[main]]
   name = "Research"
   url = "landingresearch"
@@ -39,6 +38,11 @@
   url = "publication"
   weight = 70
 
+[[main]]
+  name = "Gallery"
+  url = "gallery"
+  weight = 70
+  
 [[main]]
   name = "Contact"
   url = "contact"

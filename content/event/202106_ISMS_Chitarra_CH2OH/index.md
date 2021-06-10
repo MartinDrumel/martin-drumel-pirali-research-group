@@ -1,10 +1,10 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: International Symposium on Molecular Spectroscopy
+event_url: http://isms.illinois.edu/
 
-location: Wowchemy HQ
+location: virtual conference
 address:
   street: 450 Serra Mall
   city: Stanford
