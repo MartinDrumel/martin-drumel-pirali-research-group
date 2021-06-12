@@ -1,5 +1,5 @@
 ---
-title: $talk$ - Technical enhancements of a submillimeter-wave spectrometer\: Laboratory detection of new lines of methanol radical derivatives
+title: $talk$ - Technical enhancements of a submillimeter-wave spectrometer - Laboratory detection of new lines of methanol radical derivatives
 
 event: International Symposium on Molecular Spectroscopy
 event_url: http://isms.illinois.edu/
