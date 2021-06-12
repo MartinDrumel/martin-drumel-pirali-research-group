@@ -1,5 +1,5 @@
 ---
-title: "Far-infrared self-continuum absorption of H$_2^{16}$O and H$_2^{18}$O (15-500 cm$^{-1}$)"
+title: "Far-infrared self-continuum absorption of H$_2\,^{16}$O and H$_2^{18}$O (15-500 cm$^{-1}$)"
 date: 2019-04-01
 publishDate: 2021-06-12T08:01:39.816529Z
 authors: ["T. A. Odintsova", "M. Yu. Tretyakov", "A. O. Zibarova", pirali, "Pascale Roy", "Alain Campargue"]
