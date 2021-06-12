@@ -1,5 +1,5 @@
 ---
-title: $talk$ -  Technical enhancements of a submillimeter-wave spectrometer: Laboratory detection of new lines of methanol radical derivatives
+title: $talk$ - #Technical enhancements of a submillimeter-wave spectrometer: Laboratory detection of new lines of methanol radical derivatives
 
 event: International Symposium on Molecular Spectroscopy
 event_url: http://isms.illinois.edu/
@@ -12,7 +12,7 @@ address:
 # postcode: '61801'
 # country: USA
 
-summary: Jean-Thibaut Spaniol - RA14
+summary: Jean-Thibaut Spaniol - TI05
 abstract: ""
 
 # Talk start and end times.
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "files/2021_ISMS/RA14.pdf"
+url_pdf: "files/2021_ISMS/TI05.pdf"
 url_slides: ""
 url_video: ""
 
