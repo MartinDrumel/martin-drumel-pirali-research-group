@@ -10,5 +10,13 @@ abstract: "We present new measurements and analysis of the water absorption spec
 featured: false
 publication: "*Journal of Molecular Structure*"
 doi: "10.1016/j.molstruc.2020.128046"
+  
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- ft-fir
 ---
 
