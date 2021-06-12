@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: tbd
+bio: Master 2 student with a passion for teaching that overcame his love for spectroscopy.
 
 interests:
 - Laboratory astrophysics
