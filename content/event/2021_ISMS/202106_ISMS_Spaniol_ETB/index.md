@@ -13,7 +13,7 @@ address:
 # country: USA
 
 summary: Jean-Thibaut Spaniol - RA14
-abstract: ""
+abstract: "test"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

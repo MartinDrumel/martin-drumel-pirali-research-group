@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-06-10T00:00:00Z"
 
-authors: [spaniol, chitarra, hearne, martin-drumel, pirali]
+#authors: [spaniol, chitarra, hearne, martin-drumel, pirali]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-#url_pdf: "files/2021_ISMS/TI05.pdf"
+url_pdf: "files/2021_ISMS/RA14.pdf"
 url_slides: ""
 url_video: ""
 
