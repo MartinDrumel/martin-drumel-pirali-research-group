@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: "files/2021_ISMS/TI05.pdf"
+#url_pdf: "files/2021_ISMS/TI05.pdf"
 url_slides: ""
 url_video: ""
 
