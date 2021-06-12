@@ -52,4 +52,4 @@ Jet-AILES is a supersonic jet device installed on the high-resolution spectromet
 - IPR *Institut de physique de Rennes* ([Robert Georges](https://ipr.univ-rennes1.fr/interlocuteurs/robert-georges))
 - PhLAM *Laboratoire de Physique des Lasers, Atomes et Molécules* ([Manuel Goubet](https://pro.univ-lille.fr/manuel-goubet/))
 - MONARIS *de la Molécule aux Nano-Objets : Réactivité, Interactions et Spectroscopies* ([Pascale Soulard, Pierre Asselin](https://www.monaris.cnrs.fr/la-recherche/cirs/))
-- ISMO *Institut des Sciences Moléculaires d'Orsay* (Olivier Pirali)
+- ISMO *Institut des Sciences Moléculaires d'Orsay* ([Olivier Pirali]({{< relref "/authors/pirali" >}}))
