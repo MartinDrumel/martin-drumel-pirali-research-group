@@ -26,8 +26,11 @@ Using different organic precursors such as acetonitrile (CH<sub>3</sub>CN), meth
 
 \n
 [1] Brown, G. G et al., *Review of Scientific Instruments* **79**, 053103 (2008)\n
+
 [2] Saito, S. and Yamamoto, S., *The Journal of Chemical Physics* **107**, 1732 (1997)\n
+
 [3] Endo, Y. et al., *The Journal of Chemical Physics* **81**, 122-135 (1984)\n
+
 [4] Thaddeus, P. et al., *The Astrophysical Journal* **299**, L63-L66 (1985)"
 
 # Talk start and end times.

@@ -21,6 +21,7 @@ We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room
 
 \n
 [1] C. Bermudez et al., *Astronomy and Astrophysics* **598**, A9 (2017)\n
+
 [2] O. Chitarra et al., *Astronomy and Astrophysics* **644**, A123 (2020)"
 
 # Talk start and end times.
