@@ -4,7 +4,6 @@ date: 2020-12-01
 publishDate: 2021-05-02T14:24:07.310948Z
 authors: [chitarra, martin-drumel, "Bérenger Gans", "Jean-Christophe Loison", "Silvia Spezzano", "Valerio Lattanzi", "Holger S. P. Müller", pirali]
 publication_types: ["2"]
-abstract: ""
 featured: false
 
 publication: "*Astronomy & Astrophysics*"
