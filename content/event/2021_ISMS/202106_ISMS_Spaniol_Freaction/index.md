@@ -13,14 +13,7 @@ address:
 # country: USA
 
 summary: Jean-Thibaut Spaniol - RA14
-abstract: "Detection of radicals in the interstellar medium, such as hydroxymethyl (CH<sub>2</sub>OH) and methoxy (CH<sub>3</sub>O), is a highly interesting tool for better understanding the formation of commonly observed complex organic molecules such as glycolaldehyde, ethanol, ethylene glycol, and dimethyl ether. In this context, improving the predictions of astronomical lines with a well-defined model, based on laboratory measurements, becomes decisive.
-
-In an attempt to enrich models of CH<sub>2</sub>OH [1] and CH<sub>3</sub>O with new frequencies, we have re-investigated their pure rotational spectrum in the millimeter-wave domain. Both radicals were produced at room temperature by fluorine abstraction of hydrogene from methanol. We will report the technical improvements that have been made to increase both the sensitivity and the signal-to-noise ratio of our experimental set-up [1]. We succeeded to increase synthesis yield of both radicals by multiplying fluorine injections and we also further improved our optical set-up, now using a double passage of the beam in the cell. Finally, we wrapped an induction coil around the cell to create a magnetic field, in addition to the usual frequency modulation, allowing us to operate using double modulation detection scheme thus making us sensitive to species affected by Zeeman splitting. Both signals (single and double modulation) are recovered separately and displayed simultaneously on the measurement software. A strength of the double modulation scheme is that only lines arising from open-shell molecules, such as CH<sub>2</sub>OH and CH<sub>3</sub>O, are visible over a flat baseline (no residual Fabry-Perot interference fringes). These improvements significantly increase our sensitivity to short-lifetime species and grant a powerful tool for distinguishing radicals from stable molecules.
-
-[1] O. Chitarra et al., *Astronomy and Astrophysics* **644**, A123 (2020)
-
-
-{{< cite page="/publication/2020-chitarra-ch2oh" view="3" >}}"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -63,20 +56,12 @@ projects:
 - listed
 ---
 
-Simple aromatic molecules may be precursors for polycyclic aromatic hydrocarbons in space, and some of the simplest ones are now detected in the earliest stages of star formation [1]. Evidence of benzonitrile (C<sub>6</sub>H<sub>5</sub>-CN) in the interstellar medium [2] questions the presence of related aromatic nitriles and their ring-chain derivatives. In light of previous work [3] on phenylpropiolonitrile (C<sub>6</sub>H<sub>5</sub>-C<sub>3</sub>N), we are investigating, by laboratory high-resolution studies, its ethynylbenzonitrile (HCC-C<sub>6</sub>H<sub>4</sub>-CN) derivatives where a -CN and a -CCH groups lie in ortho (2-ETB), meta (3-ETB) or para (4-ETB) positions.
+Detection of radicals in the interstellar medium, such as hydroxymethyl (CH<sub>2</sub>OH) and methoxy (CH<sub>3</sub>O), is a highly interesting tool for better understanding the formation of commonly observed complex organic molecules such as glycolaldehyde, ethanol, ethylene glycol, and dimethyl ether. In this context, improving the predictions of astronomical lines with a well-defined model, based on laboratory measurements, becomes decisive.
 
-The pure rotational spectrum of these compounds has been recorded at room temperature in the millimeter-wave
-domain using a chirped-pulse W-band (75–110 GHz) spectrometer. To facilitate spectral assignments, quantum chemical
-calculations have been performed using density functional theory at the $\\omega$B97X-D/cc-pVQZ level of theory (geometry optimization, harmonic frequencies).
+In an attempt to enrich models of CH<sub>2</sub>OH [1] and CH<sub>3</sub>O with new frequencies, we have re-investigated their pure rotational spectrum in the millimeter-wave domain. Both radicals were produced at room temperature by fluorine abstraction of hydrogene from methanol. We will report the technical improvements that have been made to increase both the sensitivity and the signal-to-noise ratio of our experimental set-up [1]. We succeeded to increase synthesis yield of both radicals by multiplying fluorine injections and we also further improved our optical set-up, now using a double passage of the beam in the cell. Finally, we wrapped an induction coil around the cell to create a magnetic field, in addition to the usual frequency modulation, allowing us to operate using double modulation detection scheme thus making us sensitive to species affected by Zeeman splitting. Both signals (single and double modulation) are recovered separately and displayed simultaneously on the measurement software. A strength of the double modulation scheme is that only lines arising from open-shell molecules, such as CH<sub>2</sub>OH and CH<sub>3</sub>O, are visible over a flat baseline (no residual Fabry-Perot interference fringes). These improvements significantly increase our sensitivity to short-lifetime species and grant a powerful tool for distinguishing radicals from stable molecules.
 
-We will report a description of the experimental set-up and of our assignment procedure.
-
-[1] A.Burkhardt et al., *Nature Astronomy* **5**, 181-187 (2021)
-
-[2] McGuire et al., *Science* **359**, 202-205 (2018)
-
-[3] Z.Buchanan et al., *Journal of Molecular Spectroscopy* **377**, 111425 (2021)
+[1] O. Chitarra et al., *Astronomy and Astrophysics* **644**, A123 (2020)
 
 
-{{< cite page="/publication/2021-buchanan" view="3" >}}
+{{< cite page="/publication/2020-chitarra-ch2oh" view="3" >}}
 
