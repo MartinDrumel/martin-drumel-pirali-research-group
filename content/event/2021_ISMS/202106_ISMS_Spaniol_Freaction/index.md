@@ -1,5 +1,5 @@
 ---
-title: $talk$ - Technical enhancements of a submillimeter-wave spectrometer: Laboratory detection of new lines of methanol radical derivatives
+title: $talk$ - Investigation of pure rotational spectroscopy of ethynylbenzonitrile isomers using chirped-pulse W-band spectroscopy 
 
 event: International Symposium on Molecular Spectroscopy
 event_url: http://isms.illinois.edu/
@@ -12,8 +12,8 @@ address:
 # postcode: '61801'
 # country: USA
 
-summary: Jean-Thibaut Spaniol - TI05
-abstract: ""
+summary: Jean-Thibaut Spaniol - RA14
+abstract: "test"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-06-10T00:00:00Z"
 
-#authors: [spaniol, chitarra, hearne, martin-drumel, pirali]
+authors: [spaniol, 'Kin Long Kelvin Lee', pirali, martin-drumel]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -56,4 +56,20 @@ projects:
 - listed
 ---
 
+Simple aromatic molecules may be precursors for polycyclic aromatic hydrocarbons in space, and some of the simplest ones are now detected in the earliest stages of star formation [1]. Evidence of benzonitrile (C<sub>6</sub>H<sub>5</sub>-CN) in the interstellar medium [2] questions the presence of related aromatic nitriles and their ring-chain derivatives. In light of previous work [3] on phenylpropiolonitrile (C<sub>6</sub>H<sub>5</sub>-C<sub>3</sub>N), we are investigating, by laboratory high-resolution studies, its ethynylbenzonitrile (HCC-C<sub>6</sub>H<sub>4</sub>-CN) derivatives where a -CN and a -CCH groups lie in ortho (2-ETB), meta (3-ETB) or para (4-ETB) positions.
+
+The pure rotational spectrum of these compounds has been recorded at room temperature in the millimeter-wave
+domain using a chirped-pulse W-band (75–110 GHz) spectrometer. To facilitate spectral assignments, quantum chemical
+calculations have been performed using density functional theory at the $\\omega$B97X-D/cc-pVQZ level of theory (geometry optimization, harmonic frequencies).
+
+We will report a description of the experimental set-up and of our assignment procedure.
+
+[1] A.Burkhardt et al., *Nature Astronomy* **5**, 181-187 (2021)
+
+[2] McGuire et al., *Science* **359**, 202-205 (2018)
+
+[3] Z.Buchanan et al., *Journal of Molecular Spectroscopy* **377**, 111425 (2021)
+
+
+{{< cite page="/publication/2021-buchanan" view="3" >}}
 
