@@ -3,7 +3,7 @@
 
 title: "Synchrotron-based Fourier-transform far-infrared spectroscopy"
 summary: "High resolution spectroscopy on the AILES beamline at SOLEIL synchrotron"
-authors: [Olivier Pirali]
+authors: [pirali]
 
 tags: [exp, soleil, labastro]
 

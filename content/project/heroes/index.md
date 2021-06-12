@@ -3,7 +3,7 @@
 
 title: "HEROES"
 summary: "HEterodyne Receivers OptimizEd for Synchrotron sources"
-authors: [Gaël Mouret (LPCA), Jean-François Lampin (IEMN), Olivier Pirali, Franck Hindle (LPCA), Sophie Eliet (IEMN), Marie-Aline Martin-Drumel, Pascale Roy (SOLEIL)]
+authors: ["Gaël Mouret", "Jean-François Lampin", pirali, "Francis Hindle", "Sophie Eliet", martin-drumel, "Pascale Roy"]
 
 tags: [exp, soleil]
 
@@ -51,6 +51,13 @@ While in the IR several light sources and spectrometers are highly performant, T
 The first spectrometer from the project is based on the exploitation of a QCL-pumped THz molecular laser used as a local oscillator (LO) in a heterodyne receiver collecting the far-IR synchrotron continuum. The huge number of far-IR laser emission lines of the LO (available from such optical excitation in the mid-IR), and the coupling with the bright far-IR continuum source permits a full frequency coverage in the 1-5 THz spectral range with unprecedented resolution (80 kHz). This original approach will open new, broad perspectives for high resolution molecular spectroscopy in terms of the size of the molecular families that could be studied, observation of fine coupling between angular momenta, energy level splittings due to large amplitude motions, and more.
 
 The second technique follows the recent discovery of the discrete nature of the CSR in various operation modes. We demonstrated that CSR is emitted through a very stable THz frequency comb (FC) with 846 kHz spacing between the comb teeth. Thanks to this very interesting spectral characteristic, we are developing a dual-comb spectrometer by probing the CSR-FC with a second FC having a repetition rate close, yet different, to 846 kHz. This leads to a detection of the beating between the two FCs in the radiofrequency domain where electronic devices perform very well. This new THz spectrometer combines high brilliance and spectral coverage from the CSR with the high resolution and ultra-fast spectral analysis of the dual-comb approach which has revolutionized molecular spectroscopy in the mid- and near-IR regions.
+
+
+**Project partners:**
+- LPCA Laboratoire de Physico-Chimie de l'Atmosphère (Gaël Mouret, Francis Hindle)
+- IEMN Institut d'Électronique de Microélectronique et de Nanotechnologie (Jean-François Lampin, Sophie Eliet)
+- ISMO Institut des Sciences Moléculaires d'Orsay (Olivier Pirali, Marie-Aline Martin-Drumel)
+- SOLEIL Synchrotron (Pascale Roy)
 
 
 This project is funded by the *Agence Nationale de la Recherche* ([ANR-16-CE30-0020](https://anr.fr/Project-ANR-16-CE30-0020)).
