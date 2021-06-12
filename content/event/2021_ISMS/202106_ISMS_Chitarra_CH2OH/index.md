@@ -60,9 +60,9 @@ The hydroxymethyl (CH<sub>2</sub>OH) and methoxy (CH<sub>3</sub>O) radicals, pro
 
 We have re-investigated the pure rotational spectrum of CH<sub>2</sub>OH at room temperature in the millimeter-wave domain, using a frequency modulation submillimeter spectrometer, with emphasized searches for the fundamental $b$-type transitionsand those intense at low temperature. The radical was produced by H abstraction from CH<sub>3</sub>OH using F atoms produced by a microwave discharge. A combined fit of millimeter-wave lines from the literature and our new measurements using a rigid-rotor Hamiltonian yielded a large improvement in the spectroscopic parameters [2] values allowing now confident searches of CH<sub>2</sub>OH in cold interstellar environments.
 
-[1] C. Bermudez et al., *Astronomy and Astrophysics* (2017) 598, A 9
+[1] C. Bermudez et al., *Astronomy and Astrophysics* **598**, A9 (2017)
 
-[2] O. Chitarra et al., *Astronomy and Astrophysics* (2020) 644, A 123 
+[2] O. Chitarra et al., *Astronomy and Astrophysics* **644**, A123 (2020)
 
 {{< cite page="/publication/2020-chitarra-ch2oh" view="3" >}}
 

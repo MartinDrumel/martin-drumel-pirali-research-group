@@ -71,4 +71,5 @@ We will report a description of the experimental set-up and of our assignment pr
 [3] Z.Buchanan et al., *Journal of Molecular Spectroscopy* **377**, 111425 (2021)
 
 
+{{< cite page="/publication/2021-buchanan" view="3" >}}
 

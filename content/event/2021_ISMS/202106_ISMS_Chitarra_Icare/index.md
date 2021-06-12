@@ -64,13 +64,13 @@ broadband chirped-pulse Fourier-transform millimeter-wave (W-band) spectrometer 
 
 Using different organic precursors such as acetonitrile (CH<sub>3</sub>CN), methanol (CH<sub>3</sub>OH) or allene (C<sub>3</sub>H<sub>4</sub>), we were able to study rich discharge mixtures. Among others, we were able to produce and detect the cyanomethyl radical (CH<sub>2</sub>CN) [2], the methoxy radical (CH<sub>3</sub>O) [3] and cyclopropenylidene (c-C<sub>3</sub>H<sub>2</sub>) [4] in the vibrational ground state and in several vibrational excited states. In the presentation, technical details of the set-up will be provided, together with the preliminary results we obtained.
 
-[1] Brown, G. G et al., *Review of Scientific Instruments*, 79, 053103 (2008)
+[1] Brown, G. G et al., *Review of Scientific Instruments* **79**, 053103 (2008)
 
-[2] Saito, S. and Yamamoto, S., *The Journal of Chemical Physics*, 107, 1732 (1997)
+[2] Saito, S. and Yamamoto, S., *The Journal of Chemical Physics* **107**, 1732 (1997)
 
-[3] Endo, Y. et al., *The Journal of Chemical Physics*, 81, 122-135 (1984)
+[3] Endo, Y. et al., *The Journal of Chemical Physics* **81**, 122-135 (1984)
 
-[4] Thaddeus, P. et al., *The Astrophysical Journal*, 299, L63-L66 (1985)
+[4] Thaddeus, P. et al., *The Astrophysical Journal* **299**, L63-L66 (1985)
 
 
 
