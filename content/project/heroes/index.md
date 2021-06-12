@@ -3,7 +3,7 @@
 
 title: "HEROES"
 summary: "HEterodyne Receivers OptimizEd for Synchrotron sources"
-authors: ["Gaël Mouret", "Jean-François Lampin", pirali, "Francis Hindle", "Sophie Eliet", martin-drumel, "Pascale Roy"]
+authors: ["Gaël Mouret", "Jean-François Lampin", pirali, "Francis Hindle", "Sophie Eliet", "Marie-Hélène Mammez", "Dominique Mammez", hearne, martin-drumel, "Pascale Roy"]
 
 tags: [exp, soleil]
 
@@ -44,19 +44,19 @@ slides: ""
 publication: ""
 ---
 
-The goal of the “HEROES” project is to provide to the national and international scientific community two ultra-high resolution spectrometers operating in the THz (0.1 THz-1.1 THz) and far-IR (1 THz-6 THz) spectral regions by exploiting heterodyne techniques. These instruments are under development on the AILES beamline of the SOLEIL synchrotron facility. The project involves a consortium of four different laboratories having very complementary skills: ISMO (UMR 8214 – U-PSUD), IEMN (UMR 8520 – U-Lille), LPCA (EA 4493- ULCO), and the AILES beamline (SOLEIL Saclay).
+The goal of the “HEROES” project is to provide to the national and international scientific community two ultra-high resolution spectrometers operating in the THz (0.1 THz-1.1 THz) and far-IR (1 THz-6 THz) spectral regions by exploiting heterodyne techniques. These instruments are under development on the AILES beamline of the SOLEIL synchrotron facility. The project involves a consortium of four different laboratories having very complementary skills.
 
-While in the IR several light sources and spectrometers are highly performant, THz technologies still suffer from either limited brightness or narrow bandwidth despite the large technological advances realized in the last years (e.g. opto-electronic conversion, quantum cascade lasers, multiplication chains pumped by microwave synthesizers, …). Over the last 15 years, the AILES beamline made important efforts to optimize the performance of the THz and far-IR radiation extracted at SOLEIL. The same as for every synchrotron-based far-IR spectroscopy station over the world, the AILES beamline makes use of Fourier transform interferometry to acquire high resolution absorption spectra. Due to the limited optical delay obtained using mechanical displacement of the moving mirror, such a technique has an inherently limited spectral resolution (30 MHz is the highest spectral resolution available using commercial interefrometers).
+While in the IR several light sources and spectrometers are highly performant, THz technologies still suffer from either limited brightness or narrow bandwidth despite the large technological advances realized in the last years (e.g. opto-electronic conversion, quantum cascade lasers, multiplication chains pumped by microwave synthesizers, …). Over the last 15 years, the AILES beamline made important efforts to optimize the performance of the THz and far-IR radiation extracted at SOLEIL. The same as for every synchrotron-based far-IR spectroscopy station over the world, the AILES beamline makes use of Fourier transform interferometry to acquire high resolution absorption spectra. Due to the limited optical delay obtained using mechanical displacement of the moving mirror, such a technique has an inherently limited spectral resolution (30 MHz is the highest spectral resolution available using commercial interferometers).
 
 The first spectrometer from the project is based on the exploitation of a QCL-pumped THz molecular laser used as a local oscillator (LO) in a heterodyne receiver collecting the far-IR synchrotron continuum. The huge number of far-IR laser emission lines of the LO (available from such optical excitation in the mid-IR), and the coupling with the bright far-IR continuum source permits a full frequency coverage in the 1-5 THz spectral range with unprecedented resolution (80 kHz). This original approach will open new, broad perspectives for high resolution molecular spectroscopy in terms of the size of the molecular families that could be studied, observation of fine coupling between angular momenta, energy level splittings due to large amplitude motions, and more.
 
 The second technique follows the recent discovery of the discrete nature of the CSR in various operation modes. We demonstrated that CSR is emitted through a very stable THz frequency comb (FC) with 846 kHz spacing between the comb teeth. Thanks to this very interesting spectral characteristic, we are developing a dual-comb spectrometer by probing the CSR-FC with a second FC having a repetition rate close, yet different, to 846 kHz. This leads to a detection of the beating between the two FCs in the radiofrequency domain where electronic devices perform very well. This new THz spectrometer combines high brilliance and spectral coverage from the CSR with the high resolution and ultra-fast spectral analysis of the dual-comb approach which has revolutionized molecular spectroscopy in the mid- and near-IR regions.
 
 
-**Project partners:**
+**Original project partners:**
 - LPCA Laboratoire de Physico-Chimie de l'Atmosphère ([Gaël Mouret](https://lpca.univ-littoral.fr/personnels/pages-personnelles/pers_mouret/), [Francis Hindle](https://lpca.univ-littoral.fr/personnels/pages-personnelles/pers_hindle/))
 - IEMN Institut d'Électronique de Microélectronique et de Nanotechnologie ([Jean-François Lampin](https://photoniquethz.iemn.univ-lille1.fr/membres/jean-francois-lampin/), [Sophie Eliet](http://fedmecalille.univ-lille.fr/unites/institut-delectronique-de-microelectronique-et-de-nanotechnologie-iemn-umr-8520))
-- ISMO Institut des Sciences Moléculaires d'Orsay ([Olivier Pirali]({{< relref "/authors/pirali" >}}), [Marie-Aline Martin-Drumel]({{< relref "/authors/martin-drumel" >}}))
+- ISMO Institut des Sciences Moléculaires d'Orsay ([Olivier Pirali]({{< relref "/authors/pirali" >}}))
 - SOLEIL Synchrotron ([Pascale Roy](https://www.synchrotron-soleil.fr/fr/lignes-de-lumiere/ailes))
 
 
