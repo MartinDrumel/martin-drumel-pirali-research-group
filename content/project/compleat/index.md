@@ -3,7 +3,7 @@
 
 title: "COMPLEAT"
 summary: "Infrared absorption continua: Laboratory studies, calculations and applications to the modeling of the atmospheres of telluric planets"
-authors: ["Didier Mondelain (LIPHY)", pirali]
+authors: ["Didier Mondelain", pirali]
 
 tags: [labastro, soleil]
 
@@ -48,8 +48,9 @@ Measuring and modeling the IR absorption spectra of H$_2$O, CH$_4$ and H$_2$ mix
 
 The aim of this project is first to better characterize the absorption continua of H$_2$O, H$_2$ and CH$_4$ mixed with CO$_2$, through state-of-the-art laboratory measurements at different temperatures and calculations, and to provide reference datasets to the community studying the atmospheres of telluric planets. The second goal consists in establishing the role of these continua for the atmosphere of ancient Mars and the evolution and observability of magma-ocean planets. These continua will also be used to assess the observability of nearby temperate Earth-size planets with a particular focus on those of the TRAPPIST-1 system.
 
-LIPHY Laboratoire Interdisciplinaire de Physique
-LMD Laboratoire de Météorologie Dynamique
-ISMO Institut des Sciences Moléculaires d'Orsay
+**Project partners:**
+- LIPHY Laboratoire Interdisciplinaire de Physique (Didier Mondelain)
+- LMD Laboratoire de Météorologie Dynamique
+- ISMO Institut des Sciences Moléculaires d'Orsay (Olivier Pirali)
 
 This project is funded by the *Agence Nationale de la Recherche* ([ANR-19-CE31-0010](https://anr.fr/Project-ANR-19-CE31-0010)).
