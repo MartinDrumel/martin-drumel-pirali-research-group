@@ -53,7 +53,7 @@ The first spectrometer from the project is based on the exploitation of a QCL-pu
 The second technique follows the recent discovery of the discrete nature of the CSR in various operation modes. We demonstrated that CSR is emitted through a very stable THz frequency comb (FC) with 846 kHz spacing between the comb teeth. Thanks to this very interesting spectral characteristic, we are developing a dual-comb spectrometer by probing the CSR-FC with a second FC having a repetition rate close, yet different, to 846 kHz. This leads to a detection of the beating between the two FCs in the radiofrequency domain where electronic devices perform very well. This new THz spectrometer combines high brilliance and spectral coverage from the CSR with the high resolution and ultra-fast spectral analysis of the dual-comb approach which has revolutionized molecular spectroscopy in the mid- and near-IR regions.
 
 
-**Original project partners:**
+**Original Project partners:**
 - LPCA Laboratoire de Physico-Chimie de l'Atmosphère ([Gaël Mouret](https://lpca.univ-littoral.fr/personnels/pages-personnelles/pers_mouret/), [Francis Hindle](https://lpca.univ-littoral.fr/personnels/pages-personnelles/pers_hindle/))
 - IEMN Institut d'Électronique de Microélectronique et de Nanotechnologie ([Jean-François Lampin](https://photoniquethz.iemn.univ-lille1.fr/membres/jean-francois-lampin/), [Sophie Eliet](http://fedmecalille.univ-lille.fr/unites/institut-delectronique-de-microelectronique-et-de-nanotechnologie-iemn-umr-8520))
 - ISMO Institut des Sciences Moléculaires d'Orsay ([Olivier Pirali]({{< relref "/authors/pirali" >}}))
