@@ -35,7 +35,7 @@ education:
     institution: Group of Dennis Tokary, Department of Physics, University of New-Brunswick, Canada
     url_institution: https://www.unb.ca/faculty-staff/directory/science-fr-physics/tokaryk-dennis.html
     year: 2004-2006
-  - certificate: PhD
+  - course: PhD
     institution: University of Paris-Sud (Paris-Saclay), Orsay, France
     url_institution: https://www.universite-paris-saclay.fr/en
     year: 2004
