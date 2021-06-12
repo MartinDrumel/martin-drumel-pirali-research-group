@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - position: CNRS Researcher
-    institution: ISMO, CNRS, Université Paris-Saclay
+    institution: ISMO, CNRS, Université Paris-Saclay & SOLEIL Synchrotron
     url_institution: http://www.ismo.universite-paris-saclay.fr/?lang=en
     year: since 2006
   - position: Post-doc 
