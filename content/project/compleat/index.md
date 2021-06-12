@@ -3,7 +3,7 @@
 
 title: "COMPLEAT"
 summary: "Infrared absorption continua: Laboratory studies, calculations and applications to the modeling of the atmospheres of telluric planets"
-authors: [Didier Mondelain (LIPHY), Olivier Pirali]
+authors: ["Didier Mondelain (LIPHY)", pirali]
 
 tags: [labastro, soleil]
 

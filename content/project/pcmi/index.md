@@ -3,7 +3,7 @@
 
 title: "Physics and chemistry of the interstellar medium"
 summary: "Spectroscopic investigation of astrophysically-relevant species from the millimeter-wave to the far-infrared domain"
-authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
+authors: [martin-drumel, pirali]
 
 tags: [exp, labastro, soleil, submm]
 
