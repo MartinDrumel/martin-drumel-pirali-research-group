@@ -56,6 +56,4 @@ projects:
 - listed
 ---
 
-Detection of radicals in the interstellar medium, such as hydroxymethyl (CH<sub>2</sub>OH) and methoxy (CH<sub>3</sub>O), is a highly interesting tool for better understanding the formation of commonly observed complex organic molecules such as glycolaldehyde, ethanol, ethylene glycol, and dimethyl ether. In this context, improving the predictions of astronomical lines with a well-defined model, based on laboratory measurements, becomes decisive.
-
 
