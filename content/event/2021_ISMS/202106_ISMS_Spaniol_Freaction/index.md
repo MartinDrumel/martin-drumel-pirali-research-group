@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-06-10T00:00:00Z"
 
-authors: [spaniol, 'Kin Long Kelvin Lee', pirali, martin-drumel]
+authors: [spaniol, chitarra, hearne, martin-drumel, pirali]
 tags: []
 
 # Is this a featured talk? (true/false)
