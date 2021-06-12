@@ -3,7 +3,7 @@
 
 title: "LISTed"
 summary: "Laboratory Investigation of reactive species by Spectral Taxonomy"
-authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
+authors: [martin-drumel, pirali]
 
 tags: [exp, labastro, submm]
 

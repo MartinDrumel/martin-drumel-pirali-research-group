@@ -3,7 +3,7 @@
 
 title: "TERAMET"
 summary: "Hz-level frequency generation in the TeraHertz range. Generation, characterization, and applications "
-authors: [Olivier Pirali, Marie-Aline Martin-Drumel, S. Kassi (LiPhy)]
+authors: [pirali, martin-drumel, "Samir Kassi"]
 tags: [exp]
 categories: []
 date: 2021-05-02T15:52:25+02:00
@@ -41,7 +41,11 @@ slides: ""
 
 publication: ""
 ---
-Despite considerable efforts from many laboratories, the generation of an agile and high spectral purity radiation in the terahertz (THz) region, arbitrarily defined as 0.3-10 THz (roughly 10-333 cm-1), remains not available. We propose to exploit recent progresses in the frequency stabilization (down to the Hz level) of DFB lasers at 1500 nm, patented by our collaborator (Samir Kassi, LiPHY, Grenoble), together with the commercially available rapid low-temperature grown InGaAs photomixers to generate a radiation in the 300-3000 GHz using the photomixing technique. Our new spectrometer will benefit from mature technology in the telecom range to provide an extremely high agility and spectral purity in the THz domain, opening new possibilities for ultra-high precision THz molecular spectroscopy.
+Despite considerable efforts from many laboratories, the generation of an agile and high spectral purity radiation in the terahertz (THz) region, arbitrarily defined as 0.3-10 THz (roughly 10-333 cm<sup>-1</sup>), remains not available. We propose to exploit recent progresses in the frequency stabilization (down to the Hz level) of DFB lasers at 1500 nm, patented by our collaborator (Samir Kassi, LiPHY, Grenoble), together with the commercially available rapid low-temperature grown InGaAs photomixers to generate a radiation in the 300-3000 GHz using the photomixing technique. Our new spectrometer will benefit from mature technology in the telecom range to provide an extremely high agility and spectral purity in the THz domain, opening new possibilities for ultra-high precision THz molecular spectroscopy.
+
+**Project partners:**
+- ISMO Institut des Sciences Moléculaires d'Orsay (Olivier Pirali, Marie-Aline Martin-Drumel)
+- LIPHY Laboratoire Interdisciplinaire de Physique (Samir Kassi)
 
 This project is supported by a public grant from the *Laboratoire d'Excellence Physics Atoms Light Mater* ([LabEx PALM](https://www.labex-palm.fr/)) overseen by the French National Research Agency (ANR) as part of the *Investissements d'Avenir* program (ANR-10-LABX-0039-PALM).
 

@@ -3,7 +3,7 @@
 
 title: "MACO-GT"
 summary: "Open-shell and complex astrophysical molecules"
-authors: [Laurent Coudert (ISMO), Marie-Aline Martin-Drumel, Olivier Pirali]
+authors: ["Laurent Coudert", martin-drumel, pirali]
 
 tags: [exp, labastro, submm]
 
@@ -46,4 +46,4 @@ publication: ""
 The MACO-GT (*Molécules Astrophysiques à COuche ouverte et de Grande Taille*) project is part of a long-term collaboration with astrophysicists and concerns the laboratory spectroscopy of large radicals. Among all the molecules detected in the interstellar medium, very few radical species containing more than 5 atoms have been identified. This lack of detection is due to the lack of high-resolution laboratory spectroscopic data for these species. Thanks to a technique for producing radicals based on the reaction between a parent molecule and atomic fluorine, we propose to record their spectra at high resolution, from the millimeter-wave to the infrared region, and to develop theoretical approaches for their modeling. 
 
 
-This project is supported by a public grant from the *Laboratoire d'Excellence Physics Atoms Light Mater* ([LabEx PALM](https://www.labex-palm.fr/)) overseen by the French National Research Agency (ANR) as part of the *Investissements d'Avenir* program (ANR-10-LABX-0039-PALM).
+This project, whose PI is Laurent Coudert from ISMO, is supported by a public grant from the *Laboratoire d'Excellence Physics Atoms Light Mater* ([LabEx PALM](https://www.labex-palm.fr/)) overseen by the French National Research Agency (ANR) as part of the *Investissements d'Avenir* program (ANR-10-LABX-0039-PALM).

@@ -3,7 +3,7 @@
 
 title: "SPECiES"
 summary: "Chirped-pulse spectroscopy in a pulsed supersonic expansion"
-authors: [Marie-Aline Martin-Drumel, Olivier Pirali]
+authors: [martin-drumel, pirali]
 tags: [exp, submm, labastro]
 categories: []
 date: 2021-05-02T15:52:25+02:00
