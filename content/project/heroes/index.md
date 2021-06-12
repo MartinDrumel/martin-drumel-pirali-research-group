@@ -54,10 +54,10 @@ The second technique follows the recent discovery of the discrete nature of the 
 
 
 **Project partners:**
-- LPCA Laboratoire de Physico-Chimie de l'Atmosphère (Gaël Mouret, Francis Hindle)
-- IEMN Institut d'Électronique de Microélectronique et de Nanotechnologie (Jean-François Lampin, Sophie Eliet)
-- ISMO Institut des Sciences Moléculaires d'Orsay (Olivier Pirali, Marie-Aline Martin-Drumel)
-- SOLEIL Synchrotron (Pascale Roy)
+- LPCA Laboratoire de Physico-Chimie de l'Atmosphère ([Gaël Mouret](https://lpca.univ-littoral.fr/personnels/pages-personnelles/pers_mouret/), [Francis Hindle](https://lpca.univ-littoral.fr/personnels/pages-personnelles/pers_hindle/))
+- IEMN Institut d'Électronique de Microélectronique et de Nanotechnologie ([Jean-François Lampin](https://photoniquethz.iemn.univ-lille1.fr/membres/jean-francois-lampin/), [Sophie Eliet](http://fedmecalille.univ-lille.fr/unites/institut-delectronique-de-microelectronique-et-de-nanotechnologie-iemn-umr-8520))
+- ISMO Institut des Sciences Moléculaires d'Orsay ([Olivier Pirali]({{< relref "/authors/pirali" >}}), [Marie-Aline Martin-Drumel]({{< relref "/authors/martin-drumel" >}}))
+- SOLEIL Synchrotron ([Pascale Roy](https://www.synchrotron-soleil.fr/fr/lignes-de-lumiere/ailes))
 
 
 This project is funded by the *Agence Nationale de la Recherche* ([ANR-16-CE30-0020](https://anr.fr/Project-ANR-16-CE30-0020)).
