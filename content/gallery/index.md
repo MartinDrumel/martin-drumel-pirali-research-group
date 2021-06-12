@@ -1,6 +1,6 @@
 ---
 ## The title of your page (Core)
-title: Our adventures in the lab
+title: Our adventures in the lab (and beyond)
 ## An optional subtitle that will be displayed under the title
 subtitle: 
 
