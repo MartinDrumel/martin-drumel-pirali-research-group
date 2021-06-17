@@ -52,7 +52,7 @@ image:
 url_code: ""
 url_pdf: "files/2021_ISMS/RA14.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/haPzNImapx8"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
