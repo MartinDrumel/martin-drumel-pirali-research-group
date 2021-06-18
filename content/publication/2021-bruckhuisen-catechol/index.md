@@ -22,7 +22,7 @@ summary: We report an investigation of the catechol molecule from the millimeter
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Special Issue: [Terahertz Spectroscopy and Dynamics of Low-Frequency Modes Involving Large Amplitude Molecular Motions](https://www.mdpi.com/journal/molecules/special_issues/terahertz_spectro_dynam_mode_amplitude_mol_motion)'
+  #caption: 'Special Issue: [Terahertz Spectroscopy and Dynamics of Low-Frequency Modes Involving Large Amplitude Molecular Motions](https://www.mdpi.com/journal/molecules/special_issues/terahertz_spectro_dynam_mode_amplitude_mol_motion)'
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
