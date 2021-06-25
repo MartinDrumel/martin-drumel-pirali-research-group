@@ -4,7 +4,7 @@ date: 2021-05-01
 authors: 
 ---
 
-Watch the talks and check the slides from our group members at the conference.
+Watch the talks and check out the slides from our group members at the conference.
 
 <!--more-->
 
