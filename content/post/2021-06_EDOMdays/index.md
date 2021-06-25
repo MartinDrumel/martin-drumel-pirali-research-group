@@ -1,10 +1,10 @@
 ---
-title: Olivia wins a student award!
+title: Olivia wins a student award at the 2021 EDOM PhD Days!
 date: 2021-06-25
 authors: 
 ---
 
-Best presentation award at the EDOM PhD Days 2021
+Best presentation award at the annual meeting of the EDOM graduate school of Paris-Saclay university
 
 <!--more-->
 
