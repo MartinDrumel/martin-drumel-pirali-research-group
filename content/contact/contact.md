@@ -31,4 +31,4 @@ design:
 
 For any inquiry, please contact {{% mention "martin-drumel" %}} and {{% mention "pirali" %}}.
 
-You can follow recent news from our [ISMO](http://www.ismo.universite-paris-saclay.fr/) institute on Twitter [@ISMOlab_Orsay](https://twitter.com/ISMOlab_Orsay).
+You can follow recent news from our [ISMO](http://www.ismo.universite-paris-saclay.fr/) institute on Twitter ([@ISMOlab_Orsay](https://twitter.com/ISMOlab_Orsay)).
