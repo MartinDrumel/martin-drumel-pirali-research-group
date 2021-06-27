@@ -41,6 +41,12 @@ gallery_item:
 - album: 'galleryISMO'
   image: '20190312_161944.jpg'
   caption: 'RF discharge and disco lab!' 
+- album: 'galleryISMO'
+  image: 'IMG_20170922_163317.jpg'
+  caption: '' 
+- album: 'galleryISMO'
+  image: 'P_20180115_100643.jpg'
+  caption: '' 
 
 
 # - album: gallery        # can not be replaced
