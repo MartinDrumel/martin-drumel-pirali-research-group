@@ -1,7 +1,7 @@
 ---
 title: "Hunting the relatives of benzonitrile: Rotational spectroscopy of dicyanobenzenes"
-date: 2021-07-20
-publishDate: 2021-07-20T11:46:22.286087Z
+date: 2021-07-07
+publishDate: 2021-06-05T11:46:22.286087Z
 authors: [chitarra, "Kin Long Kelvin Lee", buchanan, "Mattia Melosso", "Brett A. McGuire", "Manuel Goubet", pirali, martin-drumel]
 publication_types: ["2"]
 
