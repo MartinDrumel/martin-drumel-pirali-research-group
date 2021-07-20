@@ -2,7 +2,7 @@
 title: "Rotational and vibrational spectroscopy of 1-cyanoadamantane and 1-isocyanoadamantane"
 date: 2021-05-01
 publishDate: 2021-05-02T11:46:22.286087Z
-authors: [chitarra, martin-drumel, buchanan, pirali]
+authors: [chitarra, "Kin Long Kelvin Lee", buchanan, "Mattia Melosso", "Brett A. McGuire", "Manuel Goubet", pirali, martin-drumel]
 publication_types: ["2"]
 
 publication: "*The Journal of Molecular Spectroscopy*"
