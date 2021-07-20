@@ -1,12 +1,13 @@
 ---
-title: "Hunting the relatives of benzonitrile: Rotational spectroscopy of dicyanobenzenes"
-date: 2021-07-20
-publishDate: 2021-07-20T11:46:22.286087Z
-authors: [chitarra, "Kin Long Kelvin Lee", buchanan, "Mattia Melosso", "Brett A. McGuire", "Manuel Goubet", pirali, martin-drumel]
+title: "Rotational and vibrational spectroscopy of 1-cyanoadamantane and 1-isocyanoadamantane"
+date: 2021-05-01
+publishDate: 2021-05-02T11:46:22.286087Z
+authors: [chitarra, martin-drumel, buchanan, pirali]
 publication_types: ["2"]
 
-publication: "*Astronomy and Astrophysics*"
-doi: "10.1051/0004-6361/202141386"
+publication: "*The Journal of Molecular Spectroscopy*"
+doi: "10.1016/j.jms.2021.111468"
+
 url_dataset: "2021-chitarra_ESI.zip"
 
 # Abstract
