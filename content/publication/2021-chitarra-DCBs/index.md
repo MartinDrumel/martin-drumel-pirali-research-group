@@ -1,28 +1,34 @@
 ---
-title: "Hunting the relatives of benzonitrile: Rotational spectroscopy of dicyanobenzenes"
-date: 2021-07-20
-publishDate: 2021-07-20T11:46:22.286087Z
-authors: [chitarra, "Kin Long Kelvin Lee", buchanan, "Mattia Melosso", "Brett A. McGuire", "Manuel Goubet", pirali, martin-drumel]
+title: "Rotational and vibrational spectroscopy of 1-cyanoadamantane and 1-isocyanoadamantane"
+date: 2021-05-01
+publishDate: 2021-05-02T11:46:22.286087Z
+authors: [chitarra, martin-drumel, buchanan, pirali]
 publication_types: ["2"]
 
-publication: "*Astronomy and Astrophysics*"
-doi: "10.1051/0004-6361/202141386"
+publication: "*The Journal of Molecular Spectroscopy*"
+doi: "10.1016/j.jms.2021.111468"
 
-#url_dataset: "2021-chitarra_ESI.zip"
+url_dataset: "2021-chitarra_ESI.zip"
 
 # Abstract
-abstract: "The recent interstellar detections of -CN containing aromatic species, namely benzonitrile, 1-cyanonaphthalene, and 2-cyanonaphthalene, bring renewed interest in related molecules that could participate in similar reaction networks. To enable new interstellar searches for benzonitrile derivatives, the pure rotational spectra of several related species need to be investigated in the laboratory. We have recorded the pure rotational spectra of ortho- and meta-dicyanobenzene in the centimetre and millimetre-wave domains. Assignments were supported by high-level quantum chemical calculations. Using Markov chain Monte Carlo simulations, we also searched for evidence of these molecules towards TMC-1 using the GOTHAM survey. Accurate spectroscopic parameters are derived from the analysis of the experimental spectra, allowing for reliable predictions at temperatures of interest (i.e. 10–300 K) for astronomical searches. Our searches in TMC-1 for both ortho- and meta- isomers provide upper limits for the abundances of the species."
+abstract: "Because of their high stability, the presence of diamond-type molecules has long been suspected in 
+the interstellar medium, a hypothesis supported by the extraction of diamond nanocrystal from some meteorites. 
+We report the rotational and vibrational investigation of two polar derivatives of adamantane (C<sub>10</sub>H<sub>16</sub>), 1-cyanoadamantane (C<sub>10</sub>H<sub>15</sub>--CN) and 1-isocyanoadamantane (C<sub>10</sub>H<sub>15</sub>--NC), using room temperature gas phase absorption spectroscopy. 
+Pure rotational spectra have been recorded at millimeter wavelengths (75--220 GHz) while vibrational spectra were obtained in the far- and mid-infrared domains (50--3500 cm$^{-1}$). 
+Quantum chemical calculations have been performed on these two $C_{3v}$ rotors to support the spectral analysis enabling the assignment, for both species, of more than 7000 pure rotational transitions in the ground (A$_1$ symmetry) and first vibrationally excited (E symmetry) states, and of most of the infrared active bands.
+The pure rotational lines were fit to their experimental accuracy using a symmetric-top Hamiltonian. 
+Our study provides all necessary information for an active search of these species in space."
 
 featured: false
 
 
 # Summary. An optional shortened abstract.
-summary: We report the rotational investigation and interstellar searches towards TMC-1 of ortho- and meta-dicyanobenzene.
+summary: We report the rotational and vibrational investigation of two polar derivatives of adamantane (C<sub>10</sub>H<sub>16</sub>), 1-cyanoadamantane (C<sub>10</sub>H<sub>15</sub>--CN) and 1-isocyanoadamantane (C<sub>10</sub>H<sub>15</sub>--NC), providing all necessary information for an active search of these species in space.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ)'
+  caption: '[Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ)'
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
@@ -37,4 +43,6 @@ projects:
 - pcmi
 ---
 
+
+This article is part of the special issue [Laboratory Spectroscopy for Astrophysics: Festschrift for Stephan Schlemmer](https://www.sciencedirect.com/journal/journal-of-molecular-spectroscopy/special-issue/104G321Z9MJ).
 
