@@ -5,7 +5,7 @@ publishDate: 2022-01-03T08:01:39.811164Z
 authors: ["Maria A. Zdanovskaia", martin-drumel, "Zbigniew Kisiel", pirali, "Brian J. Esselman" , "Claude Woods", "Robert J. McMahon"]
 publication_types: ["2"]
 
-featured: true
+featured: false
 publication: "*Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111568"
 
