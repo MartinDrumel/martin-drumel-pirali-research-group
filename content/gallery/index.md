@@ -47,6 +47,12 @@ gallery_item:
 - album: 'galleryISMO'
   image: 'P_20180115_100643.jpg'
   caption: '' 
+- album: 'galleryISMO'
+  image: '20220119_wrappingcoil.jpg'
+  caption: 'Wrapping a coil... a long process' 
+- album: 'galleryISMO'
+  image: '20220119_etvoila.jpg'
+  caption: 'Et voilà !' 
 
 
 # - album: gallery        # can not be replaced

@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:olivier.pirali@universite-paris-saclay.fr'
+  link: 'mailto:olivier.pirali@cnrs.fr'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4332-1440

@@ -57,7 +57,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:marie-aline.martin@universite-paris-saclay.fr'
+  link: 'mailto:marie-aline.martin@cnrs.fr'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MA_MartinDrumel
