@@ -48,10 +48,10 @@ gallery_item:
   image: 'P_20180115_100643.jpg'
   caption: '' 
 - album: 'galleryISMO'
-  image: '20220119_wrappingcoil.jpg'
+  image: '20220119_1wrappingcoil.jpg'
   caption: 'Wrapping a coil... a long process' 
 - album: 'galleryISMO'
-  image: '20220119_etvoila.jpg'
+  image: '20220119_2etvoila.jpg'
   caption: 'Et voilà !' 
 
 
