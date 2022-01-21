@@ -2,7 +2,7 @@
 title: "Optically Pumped Terahertz Molecular Laser: Gain Factor and Validation up to 5.5 THz"
 date: 2022-01-21
 publishDate: 2022-01-21T08:01:39.811164Z
-authors: ["Marie-Hélène Mammez", buchanan,  pirali, martin-drumel, "Joan Turut", "Guillaume Ducournau", "Sophie Eliete, "Francis Hindle", "Stefano Barbieri", "Pascale Roy", "Gaël Mouret", "Jean-François Lampin"]
+authors: ["Marie-Hélène Mammez", buchanan,  pirali, martin-drumel, "Joan Turut", "Guillaume Ducournau", "Sophie Eliet", "Francis Hindle", "Stefano Barbieri", "Pascale Roy", "Gaël Mouret", "Jean-François Lampin"]
 publication_types: ["2"]
 
 featured: false
