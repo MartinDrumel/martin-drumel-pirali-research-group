@@ -6,7 +6,7 @@ authors: [hearne, "Marie-Hélène Mammez", "Dominique Mammez", martin-drumel, "P
 publication_types: ["2"]
 
 featured: false
-publication: "*Optics Express}*"
+publication: "*Optics Express*"
 doi: "10.1364/OE.448147"
 
 url_dataset: "2022-hearne-heterodyne_ESI.zip"
