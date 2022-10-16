@@ -5,7 +5,7 @@ publishDate: 2022-09-29
 authors: ["Nadav Genossar", "P. Bryan Changala", "Bérenger Gans", "Jean-Christophe Loison", "Sebastian Hartweg", martin-drumel, "Gustavo A. Garcia", "John F. Stanton", "Branko Ruscic", "Joshua H. Baraban"]
 publication_types: ["2"]
 
-featured: true
+featured: false
 publication: "*J. Am. Chem. Soc.*"
 doi: "10.1021/jacs.2c07740"
 
