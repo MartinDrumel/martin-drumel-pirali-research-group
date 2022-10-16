@@ -36,7 +36,7 @@ education:
     url_institution: https://hrms21.scg.ch/
     year: 2021 
   - course: PhD in Physics
-    institution: Université Paris Saclay, Orsay, France
+    institution: Université Paris-Saclay, Orsay, France
     year: 2019-2022
 #  - course: Magistère in Molecular Physical-Chemistry
 #    institution: Université Paris Saclay, Orsay, France
