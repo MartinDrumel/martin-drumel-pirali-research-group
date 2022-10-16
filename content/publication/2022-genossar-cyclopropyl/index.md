@@ -5,11 +5,11 @@ publishDate: 2022-09-29
 authors: ["Nadav Genossar", "P. Bryan Changala", "Bérenger Gans", "Jean-Christophe Loison", " Sebastian Hartweg", martin-drumel, " Gustavo A. Garcia", " John F. Stanton", "Branko Ruscic", "Joshua H. Baraban"]
 publication_types: ["2"]
 
-featured: false
+featured: true
 publication: "*J. Am. Chem. Soc.*"
 doi: "10.1021/jacs.2c07740"
 
-#url_dataset: "2022-zdanovskaia_ESI.zip"
+#url_dataset: "CH2CN article - ESI.zip"
 
 
 # Summary. An optional shortened abstract.

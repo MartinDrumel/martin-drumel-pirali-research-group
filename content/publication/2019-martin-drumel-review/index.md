@@ -2,7 +2,7 @@
 title: "The hunt for elusive molecules: Insights from joint theoretical and experimental investigations"
 date: 2019-01-01
 publishDate: 2021-05-02T15:13:36.100025Z
-authors: [martin-drumel, "Joshua Baraban", "P. Bryan Changala", "John Stanton", "Michael C McCarthy"]
+authors: [martin-drumel, "Joshua H. Baraban", "P. Bryan Changala", "John F. Stanton", "Michael C. McCarthy"]
 publication_types: ["2"]
 abstract: ""
 featured: false
