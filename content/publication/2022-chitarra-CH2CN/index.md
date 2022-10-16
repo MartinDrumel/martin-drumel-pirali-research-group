@@ -10,7 +10,7 @@ publication: "*J. Phys. Chem. A*"
 doi: "10.1021/acs.jpca.2c04399"
 
 url_dataset: "CH2CN-ESI.zip"
-url_source: "CH2CN-ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03797976v1"
 
 # Summary. An optional shortened abstract.
 summary: We present a thorough pure rotational investigation of the CH2CN radical in its ground vibrational state.
