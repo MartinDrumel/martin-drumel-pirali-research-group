@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: Former Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master 2 student with a passion for teaching that overpassed his love for spectroscopy.
+bio: Former Master 2 student with a passion for teaching that overpassed his love for spectroscopy.
 
 interests:
 - Laboratory astrophysics

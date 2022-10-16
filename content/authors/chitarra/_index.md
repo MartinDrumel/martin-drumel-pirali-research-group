@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Former PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: former PhD student under the direction of Olivier Pirali and Marie-Aline Martin-Drumel.
+bio: Former PhD student
 
 interests:
 - High resolution spectroscopy
