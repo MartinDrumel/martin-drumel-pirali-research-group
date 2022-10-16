@@ -27,18 +27,22 @@ interests:
 
 education:
   courses:
+  - certificate: Snyder Award Winner
+    institution: International Symposium on Molecular Spectroscopy
+    url_institution: http://isms.illinois.edu/SnyderAward.php
+    year: 2022 
   - course: PhD in Physics
     institution: Université Paris Saclay, Orsay, France
     year: 2019-2022
-  - course: Magistère in Molecular Physical-Chemistry
-    institution: Université Paris Saclay, Orsay, France
-    year: 2016-2019
-  - course: M.S. in Physical-chemistry 
-    institution: Université Paris Saclay, Orsay, France
-    year: 2017-2019
-  - course: B.S. in Chemistry 
-    institution: Unversité Paris Sud, Orsay, France
-    year: 2014-2017
+#  - course: Magistère in Molecular Physical-Chemistry
+#    institution: Université Paris Saclay, Orsay, France
+#    year: 2016-2019
+#  - course: M.S. in Physical-chemistry 
+#    institution: Université Paris Saclay, Orsay, France
+#    year: 2017-2019
+#  - course: B.S. in Chemistry 
+#    institution: Unversité Paris Sud, Orsay, France
+#    year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
