@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Former Master Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
