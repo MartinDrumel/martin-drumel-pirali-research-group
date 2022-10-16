@@ -9,7 +9,6 @@ featured: true
 publication: "*J. Am. Chem. Soc*"
 doi: "10.1021/jacs.2c07740"
 
-#url_dataset: "CH2CN article - ESI.zip"
 url_source: "https://hal.archives-ouvertes.fr/hal-03797976v1"
 
 
