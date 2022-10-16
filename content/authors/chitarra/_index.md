@@ -27,10 +27,14 @@ interests:
 
 education:
   courses:
-  - certificate: Snyder Award Winner
-    institution: International Symposium on Molecular Spectroscopy
+  - certificate: Snyder Award
+    institution: International Symposium on Molecular Spectroscopy, Urbana-Champaign (USA)
     url_institution: http://isms.illinois.edu/SnyderAward.php
     year: 2022 
+  - certificate: Amat-Mills Award
+    institution: Colloquium on High-Resolution Molecular Spectroscopy, Cologne (Germany)
+    url_institution: https://hrms21.scg.ch/
+    year: 2021 
   - course: PhD in Physics
     institution: Université Paris Saclay, Orsay, France
     year: 2019-2022
