@@ -1,7 +1,7 @@
 ---
 title: "Pure rotational spectroscopy of the CH$_2$CN radical extended to the sub-millimeter wave spectral region"
-date: 2022-10-16
-publishDate: 2022-10-05T08:01:39.811164Z
+date: 2022-10-15
+publishDate: 2022-10-05
 authors: [chitarra, pirali, spaniol, hearne, "Jean-Christophe Loison", "John F. Stanton", martin-drumel]
 publication_types: ["2"]
 

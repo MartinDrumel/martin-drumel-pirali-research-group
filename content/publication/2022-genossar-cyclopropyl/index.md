@@ -1,7 +1,7 @@
 ---
 title: "Ring-opening dynamics of the cyclopropyl radical and cation: the transition state nature of the cyclopropyl cation"
-date: 2022-10-16
-publishDate: 2022-09-29T08:01:39.811164Z
+date: 2022-10-14
+publishDate: 2022-09-29
 authors: ["Nadav Genossar", "P. Bryan Changala", "Bérenger Gans", "Jean-Christophe Loison", " Sebastian Hartweg", martin-drumel, " Gustavo A. Garcia", " John F. Stanton", "Branko Ruscic", "Joshua H. Baraban"]
 publication_types: ["2"]
 
