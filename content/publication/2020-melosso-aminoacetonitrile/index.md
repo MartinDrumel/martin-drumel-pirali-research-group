@@ -10,6 +10,7 @@ featured: false
 publication: "*Astronomy & Astrophysics*"
 doi: "10.1051/0004-6361/202038466"
 
+url_source: "https://hal.archives-ouvertes.fr/hal-02952068v1"
 
 # Abstract
 abstract: "Aminoacetonitrile, a molecule detected in the interstellar medium only toward the star-forming region Sagittarius B2 (Sgr B2), is considered an important prebiotic species; in particular, it is a possible precursor of the simplest amino acid glycine. To date, observations have been limited to ground state emission lines, whereas transitions from within vibrationally excited states remained undetected.

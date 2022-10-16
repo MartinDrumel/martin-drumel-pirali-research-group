@@ -14,6 +14,7 @@ publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2020.111392"
 
 url_dataset: "2021-endres-c2h5cn_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03039197v1"
 
 # Summary. An optional shortened abstract.
 summary: The high resolution vibrational spectrum of ethyl cyanide (C<sub>2</sub>H<sub>5</sub>CN) has been investigated  in the far-IR using synchrotron-based Fourier transform spectroscopy enabling the spectral assignment of the four lowest fundamental vibrations.

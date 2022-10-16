@@ -9,6 +9,7 @@ publication: "*Astronomy and Astrophysics*"
 doi: "10.1051/0004-6361/202141386"
 
 #url_dataset: "2021-chitarra_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03292177v1"
 
 # Abstract
 abstract: "The recent interstellar detections of -CN containing aromatic species, namely benzonitrile, 1-cyanonaphthalene, and 2-cyanonaphthalene, bring renewed interest in related molecules that could participate in similar reaction networks. To enable new interstellar searches for benzonitrile derivatives, the pure rotational spectra of several related species need to be investigated in the laboratory. We have recorded the pure rotational spectra of ortho- and meta-dicyanobenzene in the centimetre and millimetre-wave domains. Assignments were supported by high-level quantum chemical calculations. Using Markov chain Monte Carlo simulations, we also searched for evidence of these molecules towards TMC-1 using the GOTHAM survey. Accurate spectroscopic parameters are derived from the analysis of the experimental spectra, allowing for reliable predictions at temperatures of interest (i.e. 10–300 K) for astronomical searches. Our searches in TMC-1 for both ortho- and meta- isomers provide upper limits for the abundances of the species."

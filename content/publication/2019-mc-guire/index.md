@@ -8,6 +8,7 @@ featured: false
 publication: "*The Astrophysical Journal*"
 doi: "10.3847/1538-4357/ab3b01"
 
+url_source: "https://hal.archives-ouvertes.fr/hal-02305874v1"
 
 # Abstract
 abstract: "A longstanding problem in astrochemistry is the inability of many current models to account for missing sulfur

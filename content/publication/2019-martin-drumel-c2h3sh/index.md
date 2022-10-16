@@ -10,6 +10,7 @@ doi: "10.1051/0004-6361/201935032"
 
 
 url_dataset: "2019-martin-drumel-c2h3sh_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-02066027v1"
 
 
 # Abstract

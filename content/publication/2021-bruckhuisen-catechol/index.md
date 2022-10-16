@@ -9,6 +9,7 @@ publication: "*Molecules*"
 doi: "10.3390/molecules26123645"
 
 url_dataset: "2021-bruckhuisen_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03261642v1"
 
 # Abstract
 abstract: "Catechol is an oxygenated aromatic volatile organic compound and a biogenic precursor of secondary organic aerosols. Monitoring this compound in the gas phase is desirable due to its appreciable reactivity with tropospheric ozone. From a molecular point of view, this molecule is attractive since the two adjacent hydroxy groups can interchangeably act as donor and acceptor in an intramolecular hydrogen bonding due to the tunnelling between two symmetrically equivalent structures. Using synchrotron radiation, we recorded a rotationally-resolved Fourier Transform far-infrared (IR) spectrum of the torsional modes of the free and bonded −OH groups forming the intramolecular hydrogen bond. Additionally, the room temperature, pure rotational spectrum was measured in the 70-220 GHz frequency range using a millimeter-wave spectrometer. The assignment of these molecular transitions was assisted by anharmonic high-level quantum-chemical calculations. In particular, pure rotational lines belonging to the ground and the four lowest energy, vibrationally excited states were assigned. Splitting due to the tunnelling was resolved for the free −OH torsional state. A global fit combining the far-IR and millimeter-wave data provided the spectroscopic parameters of the low-energy far-IR modes, in particular those characterizing the intramolecular hydrogen bond dynamics."

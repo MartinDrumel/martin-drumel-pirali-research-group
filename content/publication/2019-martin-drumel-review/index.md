@@ -10,6 +10,7 @@ publication: "*Chemistry -- A European Journal*"
 tags: ["molecular spectroscopy", "theoretical methods"]
 doi: "10.1002/chem.201805986"
 
+url_source: "https://hal.archives-ouvertes.fr/hal-02066011v1"
 
 # Abstract
 abstract: "Rotational spectroscopy is an invaluable tool to unambiguously determine the molecular structure of a species, and sometimes even to establish its very existence. This article illustrates how experimental and theoretical state-of-the-art tools can be used in tandem to investigate the rotational structure of molecules, with particular emphasis on those that have long remained elusive. The examples of three emblematic species — gauche-butadiene, disilicon carbide, and germanium dicarbide— highlight the close, mutually beneficial interaction between high-level theoretical calculations and sensitive microwave measurements. Prospects to detect still other elusive molecules of chemical and astronomical interest are discussed."

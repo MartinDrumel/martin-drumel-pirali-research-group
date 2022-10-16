@@ -11,6 +11,8 @@ featured: false
 publication: "*Optics Letters*"
 doi: "10.1364/OL.44.004985"
 
+url_source: "https://hal.archives-ouvertes.fr/hal-02319308v1"
+
 # Summary. An optional shortened abstract.
 summary: We report the development of a new heterodyne spectrometer allowing both high resolution and broadband coverage in the THz domain by exploiting broadband synchrotron radiation and a QCL-based molecular THz laser.
 

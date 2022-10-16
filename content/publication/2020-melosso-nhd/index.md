@@ -10,6 +10,8 @@ featured: false
 publication: "*Astronomy & Astrophysics*"
 doi: "10.1051/0004-6361/202038490"
 
+url_source: "https://hal.archives-ouvertes.fr/hal-02947863v1"
+
 
 # Abstract
 abstract: "Deuterium fractionation processes in the interstellar medium (ISM) have been shown to be highly efficient in the family of nitrogen hydrides. To date, observations have been limited to ammonia (NH<sub>2</sub>D, NHD<sub>2</sub>, ND<sub>3</sub>) and imidogen radical (ND) isotopologues.

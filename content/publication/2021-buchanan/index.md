@@ -16,6 +16,7 @@ publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111425"
 
 url_dataset: "2021-buchanan_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03166309v1"
 
 # Summary. An optional shortened abstract.
 summary: We report the rotational and vibrational investigation of phenylpropiolonitrile (3-phenyl-2-propynenitrile, C<sub>6</sub>H<sub>5</sub>C<sub>3</sub>N), a ring-chain derivatives of interstellar benzonitrile (C<sub>6</sub>H<sub>5</sub>CN).

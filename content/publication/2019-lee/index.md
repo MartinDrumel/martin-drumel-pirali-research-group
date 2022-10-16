@@ -9,6 +9,7 @@ publication: "*Molecular Physics*"
 doi: "10.1080/00268976.2018.1552028"
 
 url_dataset: "2019-lee_ESI.pdf"
+url_source: "https://hal.archives-ouvertes.fr/hal-02066021v1"
 
 
 # Abstract

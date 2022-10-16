@@ -10,6 +10,7 @@ doi: "10.1021/acs.jpca.9b03798"
 
 
 url_dataset: "2019-johansen_ESI.pdf"
+url_source: "https://hal.archives-ouvertes.fr/hal-02305395v1"
 
 # Abstract
 abstract: "A fundamental question in the field of astrochemistry is whether the molecules essential to life originated in the interstellar medium (ISM) and, if so, how they were formed. Nitrogen-containing heterocycles are of particular interest because of their role in biology, but to date no N-heterocycle has been detected in the ISM and it is unclear how and where such species might form. Recently, the β-cyanovinyl radical (HCCHCN) was implicated in the low temperature gas-phase formation of pyridine. While neutral vinyl cyanide (H<sub>2</sub>CCHCN) has been rotationally characterized and detected in the ISM, HCCHCN has not. Here we present the first theoretical study of all three cyanovinyl isomers at the CCSD(T)/ANO1 level of theory and the experimental rotational spectra of cis-and trans-HCCHCN, as well as those of their <sup>15</sup>N isotopologues, from 5 to 75 GHz. The observed spectra are in good agreement with calculations, and provide a basis for further laboratory and astronomical investigations of these radicals."
