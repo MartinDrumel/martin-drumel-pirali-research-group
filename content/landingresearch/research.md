@@ -49,4 +49,4 @@ design:
 
 We investigate the pure rotational and ro-vibrational spectrum of various species (stable molecules and reactive species) with a main focus on astrophysically-relevant ones. As a joke, we often refer to ourselves as the SPAM team: Soft Photons for Astrophysical Molecules!
 
-Discover below our research themes!
+Discover below our research through our experimental set-ups.
