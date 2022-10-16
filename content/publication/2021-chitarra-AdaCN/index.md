@@ -9,6 +9,7 @@ publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111468"
 
 url_dataset: "2021-chitarra_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03228610v1"
 
 # Abstract
 abstract: "Because of their high stability, the presence of diamond-type molecules has long been suspected in 

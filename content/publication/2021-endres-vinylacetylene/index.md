@@ -9,6 +9,9 @@ featured: false
 publication: "*The Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111469"
 
+
+url_source: "https://hal.archives-ouvertes.fr/hal-03246648v1"
+
 # Summary. An optional shortened abstract.
 summary: The high resolution vibrational spectrum of vinyl acetylene (C<sub>2</sub>H<sub>3</sub>CCH) has been investigated in the far infrared region allowing the two energetically lowest vibrational fundamentals ν<sub>13</sub> and ν<sub>18</sub>, and their respective hot bands, to be assigned.
 

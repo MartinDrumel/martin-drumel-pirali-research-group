@@ -10,6 +10,7 @@ publication: "*Journal of Quantitative Spectroscopy and Radiative Transfer*"
 doi: "10.1016/j.jqsrt.2021.108044"
 
 url_dataset: "2022-tamassia-HC3N_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03543162v1"
 
 
 # Summary. An optional shortened abstract.

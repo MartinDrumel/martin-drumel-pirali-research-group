@@ -10,6 +10,7 @@ publication: "*Advanced Photonics Research*"
 doi: "10.1002/adpr.202100263"
 
 url_dataset: "2022_Mammez_AdvPhotRes_LaserNH3_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03538905v1"
 
 
 # Summary. An optional shortened abstract.

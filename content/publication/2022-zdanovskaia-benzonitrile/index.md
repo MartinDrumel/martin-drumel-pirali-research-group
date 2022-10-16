@@ -10,6 +10,7 @@ publication: "*Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2021.111568"
 
 url_dataset: "2022-zdanovskaia_ESI.zip"
+url_source: "https://hal.archives-ouvertes.fr/hal-03508467v1"
 
 
 # Summary. An optional shortened abstract.
