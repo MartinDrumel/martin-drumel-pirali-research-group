@@ -10,7 +10,7 @@ publication: "*Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2022.111734"
 
 url_dataset: "2023-martin-drumel-C3_ESI.zip"
-url_source: "https://hal.archives-ouvertes.fr/hal-03912889"
+url_source: "https://hal.archives-ouvertes.fr/hal-03912889v1"
 
 
 # Summary. An optional shortened abstract.
