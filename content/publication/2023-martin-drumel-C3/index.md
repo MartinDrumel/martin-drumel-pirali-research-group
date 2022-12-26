@@ -20,7 +20,7 @@ abstract: "C<sub>3</sub>, a pure carbon chain molecule that has been identified 
 The optical spectra of rovibronic (A - X) transitions have been recorded by laser induced fluorescence spectroscopy using a single longitude mode optical parametric oscillator as narrow bandwidth laser source at the University of Science and Technology of China. 36 bands originating from X(0*v*<sub>2</sub>0), *v*<sub>2</sub> = 0-5, are assigned. 
 The mid-infrared spectrum of the rovibrational &nu;<sub>3</sub> band has been recorded by Fourier-transform infrared spectroscopy using a globar source on the AILES beamline of the SOLEIL synchrotron facility. The spectrum reveals hot bands involving up to 5 quanta of excitation in &nu;<sub>2</sub>.  
 From combining analyses of all the presently recorded spectra and literature data, accurate rotational parameters and absolute energy levels of C<sub>3</sub>, in particular for states involving the bending mode, are determined.  
-A single PGOPGER file containing all available data involving the X and A states (literature and present study) is used to fit all the data.
+A single PGOPHER file containing all available data involving the X and A states (literature and present study) is used to fit all the data.
 The spectroscopic information derived from this work enables new interstellar searches for C<sub>3</sub>, not only in the infrared and optical regions investigated here but also notably in the &nu;<sub>2</sub> band region (around 63 cm<sup>-1</sup>) where vibrational satellites can now be accurately predicted. This makes C<sub>3</sub> a universal diagnostic tool to study very different astronomical environments, from dark and dense to translucent clouds. "
 
 
