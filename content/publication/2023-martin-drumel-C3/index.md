@@ -1,6 +1,6 @@
 ---
-title: "The bending of C<sub>3</sub>: Experimentally probing the <i>l</i>-type doubling and resonance"
-date: 2022-12-26
+title: "The bending of C$_3$: Experimentally probing the $l$-type doubling and resonance"
+date: 2023-01-01
 publishDate: 2022-12-26T08:01:39.811164Z
 authors: [martin-drumel, "Qiang Zhang", "Kirstin D. Doney", pirali, "Michel Vervloet", "Dennis Tokaryk",  "Colin Western", "Harold Linnartz", "Yang Chen", "Dongfeng Zhao"]
 publication_types: ["2"]
@@ -9,7 +9,7 @@ featured: false
 publication: "*Journal of Molecular Spectroscopy*"
 doi: "10.1016/j.jms.2022.111734"
 
-url_dataset: "2023-martin-drumel-C3.zip"
+url_dataset: "2023-martin-drumel-C3_ESI.zip"
 url_source: "https://hal.archives-ouvertes.fr/hal-03912889"
 
 
