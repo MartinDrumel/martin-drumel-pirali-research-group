@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs and Students
+- Former Members
 ---
 
 Thomas Sandow Hearne is a post-doctoral researcher at the *Centre National de la Recherche Scientifique* (CNRS) and performs his research at the *Institut des Sciences Moléculaires d'Orsay* ([ISMO](http://www.ismo.universite-paris-saclay.fr/?lang=en)) in Orsay, France and the *Synchrotron SOLEIL* ([SOLEIL](https://www.synchrotron-soleil.fr/en)). He is working primarily on the *heterodyne receivers optimized for synchrotron sources* ([HEROES](https://anr.fr/Project-ANR-16-CE30-0020)) project which aims to develop new spectrometers in the terahertz range of the electromagnetic spectrum for applications such as radical spectroscopy, astrochemistry and molecular dynamics. He is intrested in developing new experimental techniques taking advantage of light from across the spectrum.
