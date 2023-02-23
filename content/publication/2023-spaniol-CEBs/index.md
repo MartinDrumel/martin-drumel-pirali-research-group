@@ -2,7 +2,7 @@
 title: "A rotational investigation of the three isomeric forms of cyanoethynylbenzene (HCC-C$_6$H$_4$-CN): benchmarking experiments and calculations using the ''Lego brick'' approach"
 date: 2023-01-26
 publishDate: 2023-01-26T08:01:39.811164Z
-authors: [spaniol, "Kin Long Kelvin Lee",  pirali, 'Cristina Puzzarini", martin-drumel]
+authors: [spaniol, "Kin Long Kelvin Lee",  pirali, "Cristina Puzzarini", martin-drumel]
 publication_types: ["2"]
 
 featured: false
