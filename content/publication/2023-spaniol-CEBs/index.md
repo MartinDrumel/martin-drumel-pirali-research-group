@@ -1,5 +1,5 @@
 ---
-title: "A rotational investigation of the three isomeric forms of cyanoethynylbenzene (HCC-C$_6$H$_4$-CN): benchmarking experiments and calculations using the "Lego brick" approach"
+title: "A rotational investigation of the three isomeric forms of cyanoethynylbenzene (HCC-C$_6$H$_4$-CN): benchmarking experiments and calculations using the ''Lego brick'' approach"
 date: 2023-02-19
 publishDate: 2023-02-19T08:01:39.811164Z
 authors: ["Ningjing Jiang",  "Mattia Melosso", "Silvia Alessandrini", "Luca Bizzocchi", martin-drumel, pirali, "Cristina Puzzarini"]
