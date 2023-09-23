@@ -2,7 +2,7 @@
 title: "Searches for bridged bicyclic molecules in Space---Norbornadiene and its cyano derivatives"
 date: 2023-09-20
 publishDate: 2023-02-16T08:01:39.811164Z
-authors: [martin-drumel, spaniol, "Helen Holzel", "Marcelino Agundez", "Jose Cernicharo", "Kasper Moth-Poulsen",  "Ugo Jacovella"]
+authors: [martin-drumel, spaniol, "Helen Hölzel", "Marcelino Agundez", "Jose Cernicharo", "Kasper Moth-Poulsen",  "Ugo Jacovella"]
 publication_types: ["2"]
 
 featured: false
