@@ -1,6 +1,6 @@
 ---
 title: "Formation of the Methyl Cation by Photochemistry in a Protoplanetary Disk"
-date: 2023-09-24
+date: 2023-06-26
 publishDate: 2023-06-26T08:01:39.811164Z
 authors: ["Olivier Berné", martin-drumel, "Ilane Schroetter", "Javier R. Goicoechea", "Ugo Jacovella", "Bérenger Gans", "Emmanuel Dartois", "Laurent H. Coudert", "Edwin Bergin", "Felipe Alarcon", "Jan Cami", "Evelyne Roueff", "John H. Black", "Oskar Asvany", "Emilie Habart", "Els Peeters", "Amelie Canin", "Boris Trahin", "Christine Joblin", "Stephan Schlemmer", "Sven Thorwirth", "Jose Cernicharo", "Maryvonne Gerin", "Alexander Tielens", "Marion Zannese", "Alain Abergel", "Jeronimo Bernard-Salas", "Christiaan Boersma", "Emeric Bron", "Ryan Chown", "Sara Cuadrado", "Daniel Dicken", "Meriem Elyajouri", "Asunción Fuente", "Karl D. Gordon", "Lina Issa", "Olga Kannavou", "Baria Khan", "Ozan Lacinbala", "David Languignon", "Romane Le Gal", "Alexandros Maragkoudakis", "Raphael Meshaka", "Yoko Okada", "Takashi Onaka", "Sofia Pasquini", "Marc W. Pound", "Massimo Robberto", "Markus Röllig", "Bethany Schefter", "Thiébaut Schirmer", "Ameek Sidhu", "Benoit Tabone", "Dries Van De Putte", "Sílvia Vicente", "Mark G. Wolfire"]
 publication_types: ["2"]
