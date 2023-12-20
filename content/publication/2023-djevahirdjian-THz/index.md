@@ -7,7 +7,7 @@ publication_types: ["2"]
 
 featured: false
 publication: "*Nature Communications*"
-doi: "10.1038/s41467-023-42905-zF"
+doi: "10.1038/s41467-023-42905-z"
 
 #url_source: "https://hal.archives-ouvertes.fr/hal-04001652"
 
