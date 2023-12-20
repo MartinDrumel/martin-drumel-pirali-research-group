@@ -1,7 +1,7 @@
 ---
 title: "Frequency stable and low phase noise THz synthesis for precision spectroscopy"
-date: 2023-01-26
-publishDate: 2023-11-07T08:01:39.811164Z
+date: 2023-12-20
+publishDate: 2023-12-07T08:01:39.811164Z
 authors: ["Léo Djevahirdjian", "Loïc Lechevallier", martin-drumel, pirali, "Guillaume Ducournau", "Rédha Kassi", "Samir Kassi"]
 publication_types: ["2"]
 
