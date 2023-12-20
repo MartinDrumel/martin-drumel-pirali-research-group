@@ -1,7 +1,7 @@
 ---
 title: "Astronomical CH$_3^+$ rovibrational assignments. A combined theoretical and experimental study validating observational findings in the d203-506 UV-irradiated protoplanetary disky"
-date: 2023-12-20
-publishDate: 2023-12-07T08:01:39.811164Z
+date: 2023-12-05
+publishDate: 2023-12-05T08:01:39.811164Z
 authors: ["P. Bryan Changala",  "Ning L. Chen", "Hai L. Le", "Bérenger Gans", "Kim Steenbakkers", "Thomas Salomon", "Luis Bonah", "Ilane Schroetter", "Amélie Canin", martin-drumel, "Ugo Jacovella", "Emmanuel Dartois", "Séverine Boyé-Péronne", "Christian Alcaraz", "Oskar Asvany", "Sandra Brünken", "Sven Thorwirth", "Stephan Schlemmer", "Javier R. Goicoechea", "Gaël Rouillé", "Ameek Sidhu", "Ryan Chown", "Dries Van De Putte", "Boris Trahin", "Felipe Alarcón", "Olivier Berné", "Emilie Habart", "Els Peeters"]
 publication_types: ["2"]
 
